@@ -1,4 +1,4 @@
-# 🍔 Food Delivery Management: MySQL Business Analytics
+# 🍕 Food Delivery Management: MySQL Business Analytics
 
 A SQL project that turns food delivery data (customers, restaurants, menus, orders, payments and delivery) into business insights using MySQL.
 
