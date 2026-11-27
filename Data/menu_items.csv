@@ -1,0 +1,301 @@
+menu_item_id,restaurant_id,item_name,cuisine_type,item_category,price,preparation_time,vegetarian,availability,item_status
+MENU0001,REST001,Hara Bhara Kebab,North Indian,Starter,231.81,43,Yes,Yes,Active
+MENU0002,REST001,Fresh Lime Soda,Continental,Beverage,98.07,29,Yes,Yes,Active
+MENU0003,REST001,Mango Lassi,Punjabi,Beverage,74.63,28,Yes,Yes,Active
+MENU0004,REST001,Schezwan Noodles,Chinese,Noodles & Rice,292.19,20,Yes,Yes,Active
+MENU0005,REST001,BBQ Chicken Pizza,Italian,Pizza,313.1,21,No,Yes,Active
+MENU0006,REST001,Chicken Fried Rice,Chinese,Noodles & Rice,230.63,17,No,Yes,Active
+MENU0007,REST001,Rasmalai,North Indian,Dessert,143.77,33,Yes,Yes,Active
+MENU0008,REST002,Fish Fingers,Continental,Starter,334.15,19,No,No,Active
+MENU0009,REST002,Farmhouse Pizza,Italian,Pizza,200.72,44,Yes,No,Active
+MENU0010,REST002,Veggie Supreme Pizza,Italian,Pizza,317.22,28,Yes,No,Active
+MENU0011,REST002,BBQ Chicken Pizza,Italian,Pizza,465.76,38,No,Yes,Active
+MENU0012,REST002,Singapore Noodles,Thai,Noodles & Rice,600.09,18,No,Yes,Active
+MENU0013,REST002,Butter Chicken,Punjabi,Main Course,350.81,24,No,Yes,Active
+MENU0014,REST002,Margherita Pizza,Italian,Pizza,442.26,22,Yes,Yes,Active
+MENU0015,REST002,Garlic Bread,Italian,Snack,97.19,15,Yes,Yes,Active
+MENU0016,REST003,Kulfi,North Indian,Dessert,128.6,19,Yes,Yes,Active
+MENU0017,REST003,Fish Fingers,Continental,Starter,205.75,28,No,Yes,Active
+MENU0018,REST003,Singapore Noodles,Thai,Noodles & Rice,587.15,15,No,Yes,Active
+MENU0019,REST003,Chicken Tikka Masala,Mughlai,Main Course,646.3,38,No,Yes,Active
+MENU0020,REST003,Paneer Tikka Pizza,Italian,Pizza,490.44,36,Yes,Yes,Active
+MENU0021,REST003,Veg Hakka Noodles,Chinese,Noodles & Rice,221.82,29,Yes,Yes,Active
+MENU0022,REST003,Garlic Bread,Italian,Snack,72.56,34,Yes,Yes,Active
+MENU0023,REST004,Samosa,Street Food,Snack,153.21,29,Yes,Yes,Active
+MENU0024,REST004,Grilled Chicken Burger,Fast Food,Burger,290.17,24,No,Yes,Active
+MENU0025,REST004,Schezwan Noodles,Chinese,Noodles & Rice,300.08,40,Yes,Yes,Active
+MENU0026,REST004,Chocolate Brownie,Bakery & Desserts,Dessert,139.26,41,Yes,No,Active
+MENU0027,REST004,Masala Chai,North Indian,Beverage,44.32,27,Yes,Yes,Inactive
+MENU0028,REST004,Egg Curry,North Indian,Main Course,522.78,40,No,Yes,Active
+MENU0029,REST004,Palak Paneer,North Indian,Main Course,492.96,17,Yes,Yes,Active
+MENU0030,REST004,Classic Veg Burger,Fast Food,Burger,314.41,20,Yes,Yes,Active
+MENU0031,REST005,Classic Veg Burger,Fast Food,Burger,186.67,43,Yes,Yes,Active
+MENU0032,REST005,Rasmalai,North Indian,Dessert,205.62,21,Yes,Yes,Active
+MENU0033,REST005,Farmhouse Pizza,Italian,Pizza,416.48,30,Yes,Yes,Active
+MENU0034,REST005,Chilli Chicken,Chinese,Starter,182.44,33,No,Yes,Active
+MENU0035,REST005,Farmhouse Pizza,Italian,Pizza,204.16,43,Yes,Yes,Active
+MENU0036,REST005,Ice Cream Sundae,Bakery & Desserts,Dessert,124.66,20,Yes,Yes,Active
+MENU0037,REST005,Nachos,Mexican,Snack,218.0,45,Yes,Yes,Active
+MENU0038,REST006,Chicken Fried Rice,Chinese,Noodles & Rice,611.7,40,No,Yes,Active
+MENU0039,REST006,Chicken Fried Rice,Chinese,Noodles & Rice,558.52,43,No,Yes,Active
+MENU0040,REST006,Schezwan Noodles,Chinese,Noodles & Rice,164.38,17,Yes,Yes,Active
+MENU0041,REST006,Cold Coffee,Continental,Beverage,112.57,29,Yes,Yes,Active
+MENU0042,REST006,Chicken 65,South Indian,Starter,217.71,17,No,Yes,Active
+MENU0043,REST006,Aloo Tikki Burger,Fast Food,Burger,129.78,16,Yes,Yes,Active
+MENU0044,REST006,Chicken Lollipop,Chinese,Starter,133.63,17,No,No,Active
+MENU0045,REST007,Margherita Pizza,Italian,Pizza,235.31,27,Yes,No,Active
+MENU0046,REST007,Veg Spring Roll,Chinese,Starter,316.68,25,Yes,Yes,Active
+MENU0047,REST007,Chicken Lollipop,Chinese,Starter,295.55,43,No,Yes,Active
+MENU0048,REST007,Chilli Chicken,Chinese,Starter,159.51,44,No,Yes,Active
+MENU0049,REST007,Chicken Fried Rice,Chinese,Noodles & Rice,610.24,40,No,Yes,Active
+MENU0050,REST007,Singapore Noodles,Thai,Noodles & Rice,486.76,16,No,Yes,Active
+MENU0051,REST007,Kadai Paneer,North Indian,Main Course,362.05,42,Yes,Yes,Active
+MENU0052,REST007,Chocolate Brownie,Bakery & Desserts,Dessert,83.49,17,Yes,Yes,Active
+MENU0053,REST008,Veggie Supreme Pizza,Italian,Pizza,323.8,38,Yes,Yes,Active
+MENU0054,REST008,Paneer Tikka Pizza,Italian,Pizza,274.51,14,Yes,No,Active
+MENU0055,REST008,Kulfi,North Indian,Dessert,129.81,10,Yes,No,Active
+MENU0056,REST008,Chicken 65,South Indian,Starter,211.17,43,No,Yes,Active
+MENU0057,REST008,Chicken Burger,Fast Food,Burger,210.81,16,No,Yes,Active
+MENU0058,REST008,Chicken Burger,Fast Food,Burger,134.88,22,No,Yes,Active
+MENU0059,REST008,Aloo Tikki Burger,Fast Food,Burger,148.24,37,Yes,Yes,Active
+MENU0060,REST009,Ice Cream Sundae,Bakery & Desserts,Dessert,247.63,42,Yes,Yes,Active
+MENU0061,REST009,Veg Hakka Noodles,Chinese,Noodles & Rice,211.1,41,Yes,Yes,Active
+MENU0062,REST009,Farmhouse Pizza,Italian,Pizza,210.89,13,Yes,Yes,Active
+MENU0063,REST009,Masala Chai,North Indian,Beverage,146.65,34,Yes,Yes,Active
+MENU0064,REST009,Chocolate Brownie,Bakery & Desserts,Dessert,178.17,16,Yes,Yes,Active
+MENU0065,REST009,Grilled Chicken Burger,Fast Food,Burger,296.54,39,No,Yes,Active
+MENU0066,REST009,Aloo Tikki Burger,Fast Food,Burger,236.1,44,Yes,Yes,Active
+MENU0067,REST009,Egg Fried Rice,Chinese,Noodles & Rice,158.84,12,No,No,Active
+MENU0068,REST010,Chilli Chicken,Chinese,Starter,323.48,20,No,Yes,Active
+MENU0069,REST010,Aloo Tikki Burger,Fast Food,Burger,232.11,17,Yes,Yes,Active
+MENU0070,REST010,Cola,Fast Food,Beverage,112.24,40,Yes,Yes,Active
+MENU0071,REST010,Grilled Chicken Burger,Fast Food,Burger,132.82,26,No,Yes,Inactive
+MENU0072,REST010,Chicken Lollipop,Chinese,Starter,275.59,28,No,Yes,Active
+MENU0073,REST010,Butter Chicken,Punjabi,Main Course,214.1,33,No,Yes,Active
+MENU0074,REST010,Gulab Jamun,North Indian,Dessert,205.39,31,Yes,Yes,Active
+MENU0075,REST011,Garlic Bread,Italian,Snack,81.75,20,Yes,Yes,Active
+MENU0076,REST011,Aloo Tikki Burger,Fast Food,Burger,271.29,37,Yes,Yes,Active
+MENU0077,REST011,Chilli Chicken,Chinese,Starter,124.69,40,No,Yes,Inactive
+MENU0078,REST011,Kadai Paneer,North Indian,Main Course,435.18,30,Yes,Yes,Active
+MENU0079,REST011,Paneer Butter Masala,North Indian,Main Course,495.43,23,Yes,Yes,Active
+MENU0080,REST011,Veggie Supreme Pizza,Italian,Pizza,334.82,29,Yes,Yes,Active
+MENU0081,REST011,Prawn Tempura,Japanese,Starter,266.15,14,No,Yes,Active
+MENU0082,REST011,Chocolate Brownie,Bakery & Desserts,Dessert,110.38,29,Yes,No,Active
+MENU0083,REST012,Chole Bhature,Punjabi,Main Course,363.55,32,Yes,Yes,Active
+MENU0084,REST012,Chocolate Brownie,Bakery & Desserts,Dessert,155.88,29,Yes,Yes,Active
+MENU0085,REST012,Mushroom Manchurian,Chinese,Starter,215.29,26,Yes,Yes,Active
+MENU0086,REST012,Iced Tea,Continental,Beverage,95.71,11,Yes,Yes,Active
+MENU0087,REST012,Veg Spring Roll,Chinese,Starter,252.67,23,Yes,Yes,Active
+MENU0088,REST012,Paneer Tikka Pizza,Italian,Pizza,306.17,44,Yes,Yes,Active
+MENU0089,REST012,Fish Fingers,Continental,Starter,334.97,13,No,Yes,Active
+MENU0090,REST012,Cold Coffee,Continental,Beverage,58.84,29,Yes,Yes,Active
+MENU0091,REST013,Mineral Water,Continental,Beverage,102.15,35,Yes,Yes,Active
+MENU0092,REST013,French Fries,Fast Food,Snack,106.66,29,Yes,Yes,Active
+MENU0093,REST013,Ice Cream Sundae,Bakery & Desserts,Dessert,140.18,12,Yes,Yes,Active
+MENU0094,REST013,Masala Chai,North Indian,Beverage,61.01,27,Yes,Yes,Active
+MENU0095,REST013,Margherita Pizza,Italian,Pizza,584.51,41,Yes,Yes,Active
+MENU0096,REST013,Margherita Pizza,Italian,Pizza,324.56,29,Yes,Yes,Active
+MENU0097,REST013,Kadai Paneer,North Indian,Main Course,598.39,15,Yes,Yes,Active
+MENU0098,REST014,Iced Tea,Continental,Beverage,141.79,26,Yes,Yes,Active
+MENU0099,REST014,Egg Curry,North Indian,Main Course,211.14,30,No,Yes,Active
+MENU0100,REST014,Singapore Noodles,Thai,Noodles & Rice,552.92,25,No,No,Active
+MENU0101,REST014,Veg Hakka Noodles,Chinese,Noodles & Rice,237.58,27,Yes,Yes,Active
+MENU0102,REST014,Chicken Lollipop,Chinese,Starter,132.86,44,No,Yes,Inactive
+MENU0103,REST014,Chocolate Brownie,Bakery & Desserts,Dessert,163.69,40,Yes,Yes,Inactive
+MENU0104,REST014,Chicken Fried Rice,Chinese,Noodles & Rice,331.5,33,No,Yes,Active
+MENU0105,REST015,Samosa,Street Food,Snack,133.09,33,Yes,No,Active
+MENU0106,REST015,Egg Fried Rice,Chinese,Noodles & Rice,583.48,38,No,Yes,Active
+MENU0107,REST015,Mango Lassi,Punjabi,Beverage,141.3,26,Yes,Yes,Inactive
+MENU0108,REST015,Tiramisu,Italian,Dessert,104.74,23,Yes,Yes,Active
+MENU0109,REST015,Onion Rings,Fast Food,Snack,179.96,36,Yes,Yes,Active
+MENU0110,REST015,Gulab Jamun,North Indian,Dessert,216.41,41,Yes,Yes,Active
+MENU0111,REST015,Iced Tea,Continental,Beverage,69.93,37,Yes,Yes,Active
+MENU0112,REST015,Rajma Chawal,North Indian,Main Course,230.17,26,Yes,Yes,Active
+MENU0113,REST016,Singapore Noodles,Thai,Noodles & Rice,545.51,18,No,Yes,Active
+MENU0114,REST016,Fresh Lime Soda,Continental,Beverage,67.65,15,Yes,Yes,Active
+MENU0115,REST016,Kulfi,North Indian,Dessert,244.24,18,Yes,Yes,Active
+MENU0116,REST016,Cheese Burger,Fast Food,Burger,223.84,18,Yes,Yes,Active
+MENU0117,REST016,Hara Bhara Kebab,North Indian,Starter,303.89,22,Yes,Yes,Active
+MENU0118,REST016,Fish Fingers,Continental,Starter,321.57,24,No,Yes,Active
+MENU0119,REST016,Cheesecake,Bakery & Desserts,Dessert,182.95,24,Yes,No,Inactive
+MENU0120,REST017,Mutton Rogan Josh,Mughlai,Main Course,235.06,17,No,Yes,Active
+MENU0121,REST017,Tiramisu,Italian,Dessert,234.8,39,Yes,Yes,Active
+MENU0122,REST017,Chicken Biryani,Biryani Specialist,Main Course,506.78,22,No,No,Active
+MENU0123,REST017,Cheese Burger,Fast Food,Burger,186.23,41,Yes,Yes,Active
+MENU0124,REST017,Chicken Burger,Fast Food,Burger,258.02,28,No,Yes,Active
+MENU0125,REST017,Farmhouse Pizza,Italian,Pizza,362.41,19,Yes,Yes,Inactive
+MENU0126,REST017,Mushroom Manchurian,Chinese,Starter,262.07,25,Yes,Yes,Active
+MENU0127,REST018,Aloo Tikki Burger,Fast Food,Burger,289.3,26,Yes,Yes,Active
+MENU0128,REST018,Paneer Tikka,North Indian,Starter,196.56,25,Yes,Yes,Active
+MENU0129,REST018,Egg Curry,North Indian,Main Course,619.66,12,No,Yes,Active
+MENU0130,REST018,Paneer Tikka Pizza,Italian,Pizza,320.0,35,Yes,Yes,Active
+MENU0131,REST018,Cheesecake,Bakery & Desserts,Dessert,67.81,21,Yes,Yes,Active
+MENU0132,REST018,Chocolate Brownie,Bakery & Desserts,Dessert,226.8,18,Yes,Yes,Active
+MENU0133,REST018,Ice Cream Sundae,Bakery & Desserts,Dessert,86.94,17,Yes,Yes,Inactive
+MENU0134,REST019,Cheese Burger,Fast Food,Burger,238.9,37,Yes,No,Active
+MENU0135,REST019,Onion Rings,Fast Food,Snack,205.1,19,Yes,Yes,Active
+MENU0136,REST019,Veggie Supreme Pizza,Italian,Pizza,518.29,13,Yes,Yes,Active
+MENU0137,REST019,Farmhouse Pizza,Italian,Pizza,213.34,26,Yes,Yes,Active
+MENU0138,REST019,Classic Veg Burger,Fast Food,Burger,348.9,41,Yes,Yes,Active
+MENU0139,REST019,Momos,Street Food,Snack,166.56,39,Yes,Yes,Active
+MENU0140,REST019,Farmhouse Pizza,Italian,Pizza,248.46,15,Yes,Yes,Active
+MENU0141,REST019,Iced Tea,Continental,Beverage,50.2,42,Yes,Yes,Active
+MENU0142,REST020,Rasmalai,North Indian,Dessert,205.97,16,Yes,No,Active
+MENU0143,REST020,Palak Paneer,North Indian,Main Course,640.67,17,Yes,Yes,Active
+MENU0144,REST020,French Fries,Fast Food,Snack,219.03,19,Yes,Yes,Active
+MENU0145,REST020,Prawn Tempura,Japanese,Starter,224.43,27,No,Yes,Active
+MENU0146,REST020,Masala Chai,North Indian,Beverage,108.74,38,Yes,Yes,Active
+MENU0147,REST020,Chicken Tikka Masala,Mughlai,Main Course,603.44,18,No,Yes,Active
+MENU0148,REST020,Momos,Street Food,Snack,113.76,13,Yes,Yes,Active
+MENU0149,REST021,Singapore Noodles,Thai,Noodles & Rice,539.75,28,No,Yes,Inactive
+MENU0150,REST021,Veg Spring Roll,Chinese,Starter,147.74,41,Yes,Yes,Active
+MENU0151,REST021,Pepperoni Pizza,Italian,Pizza,560.49,18,No,Yes,Active
+MENU0152,REST021,Mutton Rogan Josh,Mughlai,Main Course,406.33,41,No,Yes,Active
+MENU0153,REST021,Fresh Lime Soda,Continental,Beverage,97.57,37,Yes,Yes,Active
+MENU0154,REST021,Cheese Burger,Fast Food,Burger,261.19,37,Yes,Yes,Active
+MENU0155,REST021,Aloo Tikki,Punjabi,Starter,198.6,39,Yes,Yes,Active
+MENU0156,REST021,Chicken Tikka Masala,Mughlai,Main Course,227.53,41,No,Yes,Active
+MENU0157,REST022,Mushroom Manchurian,Chinese,Starter,240.31,28,Yes,Yes,Active
+MENU0158,REST022,Classic Veg Burger,Fast Food,Burger,238.09,42,Yes,Yes,Active
+MENU0159,REST022,Chicken Lollipop,Chinese,Starter,306.95,32,No,Yes,Active
+MENU0160,REST022,Cola,Fast Food,Beverage,31.95,39,Yes,Yes,Active
+MENU0161,REST022,Paneer Tikka Pizza,Italian,Pizza,217.1,36,Yes,Yes,Active
+MENU0162,REST022,Samosa,Street Food,Snack,197.58,38,Yes,Yes,Active
+MENU0163,REST022,Tiramisu,Italian,Dessert,213.9,23,Yes,Yes,Active
+MENU0164,REST022,BBQ Chicken Pizza,Italian,Pizza,302.73,16,No,Yes,Active
+MENU0165,REST023,Aloo Tikki Burger,Fast Food,Burger,189.64,33,Yes,Yes,Inactive
+MENU0166,REST023,Fish Fingers,Continental,Starter,305.07,15,No,Yes,Active
+MENU0167,REST023,Gulab Jamun,North Indian,Dessert,215.03,22,Yes,Yes,Active
+MENU0168,REST023,Chicken Burger,Fast Food,Burger,269.44,37,No,Yes,Active
+MENU0169,REST023,Grilled Chicken Burger,Fast Food,Burger,163.91,29,No,Yes,Active
+MENU0170,REST023,Ice Cream Sundae,Bakery & Desserts,Dessert,64.15,20,Yes,No,Active
+MENU0171,REST023,Ice Cream Sundae,Bakery & Desserts,Dessert,243.13,40,Yes,Yes,Active
+MENU0172,REST024,Kadai Paneer,North Indian,Main Course,574.31,45,Yes,No,Active
+MENU0173,REST024,Paneer Tikka Pizza,Italian,Pizza,393.44,41,Yes,Yes,Active
+MENU0174,REST024,Masala Chai,North Indian,Beverage,80.64,30,Yes,Yes,Active
+MENU0175,REST024,Aloo Tikki Burger,Fast Food,Burger,324.5,17,Yes,Yes,Inactive
+MENU0176,REST024,Pepperoni Pizza,Italian,Pizza,378.33,37,No,Yes,Active
+MENU0177,REST024,Mushroom Manchurian,Chinese,Starter,227.93,38,Yes,Yes,Active
+MENU0178,REST024,Mineral Water,Continental,Beverage,70.7,39,Yes,Yes,Active
+MENU0179,REST024,Aloo Tikki Burger,Fast Food,Burger,340.75,33,Yes,Yes,Active
+MENU0180,REST025,Cola,Fast Food,Beverage,89.06,36,Yes,No,Active
+MENU0181,REST025,Chicken Fried Rice,Chinese,Noodles & Rice,254.72,13,No,No,Active
+MENU0182,REST025,Pepperoni Pizza,Italian,Pizza,341.82,20,No,Yes,Active
+MENU0183,REST025,Cheesecake,Bakery & Desserts,Dessert,66.07,14,Yes,Yes,Active
+MENU0184,REST025,Rasmalai,North Indian,Dessert,82.93,24,Yes,Yes,Inactive
+MENU0185,REST025,Veg Pulao,North Indian,Main Course,327.62,12,Yes,Yes,Active
+MENU0186,REST025,Hyderabadi Biryani,Biryani Specialist,Main Course,225.59,42,No,Yes,Active
+MENU0187,REST026,Chicken 65,South Indian,Starter,309.43,12,No,Yes,Active
+MENU0188,REST026,French Fries,Fast Food,Snack,225.47,33,Yes,Yes,Active
+MENU0189,REST026,Mango Lassi,Punjabi,Beverage,121.44,41,Yes,Yes,Active
+MENU0190,REST026,Momos,Street Food,Snack,129.11,18,Yes,Yes,Active
+MENU0191,REST026,Mango Lassi,Punjabi,Beverage,122.31,10,Yes,Yes,Active
+MENU0192,REST026,Garlic Bread,Italian,Snack,114.48,20,Yes,Yes,Active
+MENU0193,REST026,Iced Tea,Continental,Beverage,79.8,25,Yes,Yes,Active
+MENU0194,REST026,Singapore Noodles,Thai,Noodles & Rice,543.61,18,No,Yes,Active
+MENU0195,REST027,Classic Veg Burger,Fast Food,Burger,285.05,43,Yes,No,Active
+MENU0196,REST027,Cheese Burger,Fast Food,Burger,212.38,20,Yes,Yes,Active
+MENU0197,REST027,Masala Chai,North Indian,Beverage,109.22,19,Yes,No,Active
+MENU0198,REST027,Mineral Water,Continental,Beverage,147.61,43,Yes,No,Active
+MENU0199,REST027,Veggie Supreme Pizza,Italian,Pizza,479.32,29,Yes,Yes,Active
+MENU0200,REST027,Hara Bhara Kebab,North Indian,Starter,121.82,27,Yes,No,Active
+MENU0201,REST027,Dal Makhani,Punjabi,Main Course,500.15,38,Yes,Yes,Active
+MENU0202,REST028,Schezwan Noodles,Chinese,Noodles & Rice,192.14,44,Yes,Yes,Active
+MENU0203,REST028,Chicken Fried Rice,Chinese,Noodles & Rice,410.23,44,No,Yes,Active
+MENU0204,REST028,Grilled Chicken Burger,Fast Food,Burger,191.82,31,No,Yes,Active
+MENU0205,REST028,Margherita Pizza,Italian,Pizza,555.13,44,Yes,Yes,Active
+MENU0206,REST028,Iced Tea,Continental,Beverage,66.47,37,Yes,No,Active
+MENU0207,REST028,Gulab Jamun,North Indian,Dessert,219.9,26,Yes,Yes,Active
+MENU0208,REST028,Masala Chai,North Indian,Beverage,120.79,17,Yes,Yes,Active
+MENU0209,REST029,Chicken Lollipop,Chinese,Starter,173.78,29,No,Yes,Active
+MENU0210,REST029,Veggie Supreme Pizza,Italian,Pizza,428.11,18,Yes,Yes,Active
+MENU0211,REST029,Chicken Biryani,Biryani Specialist,Main Course,202.61,43,No,Yes,Active
+MENU0212,REST029,Chocolate Brownie,Bakery & Desserts,Dessert,146.32,19,Yes,Yes,Active
+MENU0213,REST029,Veg Hakka Noodles,Chinese,Noodles & Rice,196.12,37,Yes,No,Active
+MENU0214,REST029,Ice Cream Sundae,Bakery & Desserts,Dessert,74.83,43,Yes,Yes,Active
+MENU0215,REST029,Onion Rings,Fast Food,Snack,225.68,41,Yes,Yes,Inactive
+MENU0216,REST029,Kulfi,North Indian,Dessert,236.9,41,Yes,Yes,Active
+MENU0217,REST030,Chole Bhature,Punjabi,Main Course,386.68,20,Yes,No,Active
+MENU0218,REST030,Veg Hakka Noodles,Chinese,Noodles & Rice,450.8,36,Yes,Yes,Active
+MENU0219,REST030,Cheese Burger,Fast Food,Burger,129.26,19,Yes,Yes,Active
+MENU0220,REST030,Cheese Burger,Fast Food,Burger,189.75,41,Yes,Yes,Active
+MENU0221,REST030,Samosa,Street Food,Snack,140.13,29,Yes,No,Active
+MENU0222,REST030,Singapore Noodles,Thai,Noodles & Rice,151.04,45,No,Yes,Active
+MENU0223,REST030,Singapore Noodles,Thai,Noodles & Rice,390.59,29,No,Yes,Active
+MENU0224,REST030,Tiramisu,Italian,Dessert,131.69,18,Yes,Yes,Active
+MENU0225,REST031,Aloo Tikki Burger,Fast Food,Burger,209.06,35,Yes,Yes,Active
+MENU0226,REST031,Aloo Tikki Burger,Fast Food,Burger,289.26,15,Yes,Yes,Active
+MENU0227,REST031,Grilled Chicken Burger,Fast Food,Burger,264.93,29,No,Yes,Active
+MENU0228,REST031,Cola,Fast Food,Beverage,40.22,44,Yes,Yes,Active
+MENU0229,REST031,BBQ Chicken Pizza,Italian,Pizza,407.7,40,No,Yes,Active
+MENU0230,REST031,Mineral Water,Continental,Beverage,142.34,21,Yes,No,Active
+MENU0231,REST031,Rasmalai,North Indian,Dessert,106.6,38,Yes,Yes,Active
+MENU0232,REST032,Paneer Tikka Pizza,Italian,Pizza,301.87,17,Yes,No,Active
+MENU0233,REST032,Schezwan Noodles,Chinese,Noodles & Rice,222.02,26,Yes,Yes,Active
+MENU0234,REST032,Aloo Tikki Burger,Fast Food,Burger,276.08,13,Yes,Yes,Active
+MENU0235,REST032,French Fries,Fast Food,Snack,195.53,29,Yes,Yes,Active
+MENU0236,REST032,Paneer Tikka Pizza,Italian,Pizza,556.2,26,Yes,Yes,Active
+MENU0237,REST032,Paneer Butter Masala,North Indian,Main Course,175.94,25,Yes,Yes,Active
+MENU0238,REST032,Prawn Tempura,Japanese,Starter,236.98,42,No,Yes,Active
+MENU0239,REST032,Veg Hakka Noodles,Chinese,Noodles & Rice,309.17,45,Yes,Yes,Active
+MENU0240,REST033,Grilled Chicken Burger,Fast Food,Burger,269.86,18,No,Yes,Active
+MENU0241,REST033,Paneer Butter Masala,North Indian,Main Course,573.14,42,Yes,Yes,Inactive
+MENU0242,REST033,Garlic Bread,Italian,Snack,162.68,20,Yes,Yes,Active
+MENU0243,REST033,Paneer Tikka Pizza,Italian,Pizza,583.54,45,Yes,Yes,Active
+MENU0244,REST033,Onion Rings,Fast Food,Snack,242.61,28,Yes,Yes,Active
+MENU0245,REST033,Gulab Jamun,North Indian,Dessert,237.37,40,Yes,Yes,Active
+MENU0246,REST033,Palak Paneer,North Indian,Main Course,340.08,32,Yes,Yes,Active
+MENU0247,REST034,Iced Tea,Continental,Beverage,46.76,45,Yes,No,Active
+MENU0248,REST034,Farmhouse Pizza,Italian,Pizza,443.18,30,Yes,No,Inactive
+MENU0249,REST034,Palak Paneer,North Indian,Main Course,280.68,38,Yes,Yes,Active
+MENU0250,REST034,Schezwan Noodles,Chinese,Noodles & Rice,320.81,39,Yes,No,Active
+MENU0251,REST034,Veg Spring Roll,Chinese,Starter,268.68,10,Yes,Yes,Active
+MENU0252,REST034,Paneer Tikka,North Indian,Starter,274.72,36,Yes,Yes,Active
+MENU0253,REST034,Ice Cream Sundae,Bakery & Desserts,Dessert,204.87,44,Yes,Yes,Active
+MENU0254,REST035,Cheesecake,Bakery & Desserts,Dessert,128.01,21,Yes,Yes,Active
+MENU0255,REST035,Veg Hakka Noodles,Chinese,Noodles & Rice,212.38,33,Yes,No,Active
+MENU0256,REST035,Nachos,Mexican,Snack,201.2,27,Yes,Yes,Active
+MENU0257,REST035,Cold Coffee,Continental,Beverage,40.8,29,Yes,Yes,Active
+MENU0258,REST035,Aloo Tikki Burger,Fast Food,Burger,342.48,12,Yes,Yes,Active
+MENU0259,REST035,Chicken Lollipop,Chinese,Starter,168.09,22,No,No,Active
+MENU0260,REST035,French Fries,Fast Food,Snack,225.28,42,Yes,Yes,Active
+MENU0261,REST035,Grilled Chicken Burger,Fast Food,Burger,274.6,21,No,Yes,Active
+MENU0262,REST036,Aloo Tikki,Punjabi,Starter,261.33,45,Yes,No,Active
+MENU0263,REST036,Paneer Tikka Pizza,Italian,Pizza,455.39,13,Yes,Yes,Active
+MENU0264,REST036,Singapore Noodles,Thai,Noodles & Rice,287.02,43,No,Yes,Active
+MENU0265,REST036,Veg Pulao,North Indian,Main Course,171.73,24,Yes,Yes,Active
+MENU0266,REST036,Egg Fried Rice,Chinese,Noodles & Rice,374.43,10,No,Yes,Active
+MENU0267,REST036,Cola,Fast Food,Beverage,126.92,24,Yes,No,Active
+MENU0268,REST036,Paneer Butter Masala,North Indian,Main Course,608.5,22,Yes,Yes,Active
+MENU0269,REST036,Kulfi,North Indian,Dessert,178.81,11,Yes,Yes,Active
+MENU0270,REST037,Veg Hakka Noodles,Chinese,Noodles & Rice,560.82,43,Yes,Yes,Inactive
+MENU0271,REST037,Tiramisu,Italian,Dessert,173.99,38,Yes,Yes,Active
+MENU0272,REST037,BBQ Chicken Pizza,Italian,Pizza,248.93,13,No,No,Active
+MENU0273,REST037,Veggie Supreme Pizza,Italian,Pizza,225.01,18,Yes,Yes,Active
+MENU0274,REST037,Paneer Tikka,North Indian,Starter,189.34,37,Yes,Yes,Active
+MENU0275,REST037,Fish Curry,South Indian,Main Course,176.1,34,No,Yes,Active
+MENU0276,REST037,Paneer Tikka Pizza,Italian,Pizza,292.24,10,Yes,Yes,Active
+MENU0277,REST038,Classic Veg Burger,Fast Food,Burger,143.62,14,Yes,Yes,Active
+MENU0278,REST038,Egg Fried Rice,Chinese,Noodles & Rice,212.99,42,No,Yes,Active
+MENU0279,REST038,Chicken Lollipop,Chinese,Starter,222.26,25,No,Yes,Active
+MENU0280,REST038,Rasmalai,North Indian,Dessert,119.22,37,Yes,Yes,Active
+MENU0281,REST038,Chocolate Brownie,Bakery & Desserts,Dessert,119.13,44,Yes,Yes,Active
+MENU0282,REST038,Chilli Chicken,Chinese,Starter,258.77,28,No,Yes,Active
+MENU0283,REST038,Egg Fried Rice,Chinese,Noodles & Rice,478.84,19,No,Yes,Active
+MENU0284,REST038,Egg Fried Rice,Chinese,Noodles & Rice,579.35,37,No,Yes,Inactive
+MENU0285,REST039,Tiramisu,Italian,Dessert,169.9,31,Yes,Yes,Active
+MENU0286,REST039,Dal Makhani,Punjabi,Main Course,202.42,12,Yes,Yes,Active
+MENU0287,REST039,Mushroom Manchurian,Chinese,Starter,279.44,39,Yes,Yes,Active
+MENU0288,REST039,Chicken Tikka Masala,Mughlai,Main Course,534.17,31,No,Yes,Active
+MENU0289,REST039,Aloo Tikki Burger,Fast Food,Burger,162.38,10,Yes,Yes,Active
+MENU0290,REST039,Gulab Jamun,North Indian,Dessert,165.39,19,Yes,Yes,Active
+MENU0291,REST039,Grilled Chicken Burger,Fast Food,Burger,329.92,33,No,Yes,Active
+MENU0292,REST039,Rasmalai,North Indian,Dessert,113.98,24,Yes,No,Active
+MENU0293,REST040,Paneer Tikka Pizza,Italian,Pizza,460.95,17,Yes,Yes,Active
+MENU0294,REST040,Singapore Noodles,Thai,Noodles & Rice,270.07,33,No,Yes,Inactive
+MENU0295,REST040,Veg Pulao,North Indian,Main Course,648.85,37,Yes,Yes,Active
+MENU0296,REST040,Veg Spring Roll,Chinese,Starter,323.03,18,Yes,Yes,Active
+MENU0297,REST040,Mango Lassi,Punjabi,Beverage,113.32,30,Yes,Yes,Inactive
+MENU0298,REST040,Nachos,Mexican,Snack,234.99,22,Yes,Yes,Active
+MENU0299,REST040,Veg Spring Roll,Chinese,Starter,195.37,13,Yes,Yes,Active
+MENU0300,REST040,Rasmalai,North Indian,Dessert,221.79,41,Yes,Yes,Active

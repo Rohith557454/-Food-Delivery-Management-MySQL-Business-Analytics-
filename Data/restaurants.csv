@@ -1,0 +1,41 @@
+restaurant_id,restaurant_name,cuisine_type,city,state,rating,price_range,opening_time,closing_time,restaurant_status
+REST001,Little Italy Junction,Chinese,Coimbatore,Tamil Nadu,3.4,Mid-Range,08:00:00,23:00:00,Active
+REST002,Delight Eatery,Chinese,Thiruvananthapuram,Kerala,2.7,Premium,08:00:00,22:00:00,Active
+REST003,The Kitchen of Eatery,Street Food,Jaipur,Rajasthan,3.7,Mid-Range,09:00:00,22:00:00,Active
+REST004,Golden House,Street Food,Mysore,Karnataka,4.5,Premium,08:00:00,23:00:00,Active
+REST005,Bombay Junction,Bakery & Desserts,Bangalore,Karnataka,4.4,Mid-Range,09:00:00,22:00:00,Active
+REST006,Sizzling Café,Thai,Udaipur,Rajasthan,3.9,Premium,09:00:00,23:00:00,Active
+REST007,Fresh Treats,Mughlai,Kochi,Kerala,3.5,Budget,11:00:00,22:00:00,Active
+REST008,Urban House,Healthy Food,Udaipur,Rajasthan,3.5,Budget,08:00:00,22:00:00,Active
+REST009,Royal Hub,South Indian,Kochi,Kerala,3.2,Premium,07:00:00,22:00:00,Active
+REST010,Wok Eatery,Street Food,Mysore,Karnataka,3.9,Premium,10:00:00,23:00:00,Active
+REST011,Classic Junction,Punjabi,Mysore,Karnataka,3.6,Premium,09:00:00,23:00:00,Active
+REST012,Bombay Restaurant,South Indian,Hyderabad,Telangana,3,Mid-Range,08:00:00,22:00:00,Active
+REST013,Delight Corner,Punjabi,Pune,Maharashtra,3.8,Premium,08:00:00,22:00:00,Inactive
+REST014,Cafe Junction,Mughlai,Bangalore,Karnataka,4,Premium,10:00:00,23:00:00,Active
+REST015,Urban Bistro,Healthy Food,Chennai,Tamil Nadu,4.1,Mid-Range,09:00:00,23:00:00,Active
+REST016,Royal Point,Bakery & Desserts,Patna,Bihar,2.6,Mid-Range,09:00:00,22:00:00,Active
+REST017,Cafe Point,North Indian,Hyderabad,Telangana,3.7,Mid-Range,10:00:00,22:00:00,Active
+REST018,Spice Treats,Italian,Bhopal,Madhya Pradesh,3.7,Mid-Range,10:00:00,22:00:00,Active
+REST019,Classic Eatery,North Indian,Guwahati,Assam,3.5,Mid-Range,11:00:00,22:00:00,Active
+REST020,Green Diner,Italian,Patna,Bihar,4,Mid-Range,07:00:00,22:00:00,Active
+REST021,Grand Café,Biryani Specialist,Vadodara,Gujarat,2.6,Premium,07:00:00,23:00:00,Active
+REST022,Fresh Corner,Japanese,Vadodara,Gujarat,4.8,Mid-Range,07:00:00,22:00:00,Active
+REST023,Curry Eatery,Street Food,Pune,Maharashtra,3,Mid-Range,09:00:00,22:00:00,Active
+REST024,Wok House,Biryani Specialist,Bangalore,Karnataka,4.6,Budget,10:00:00,22:00:00,Active
+REST025,Urban Treats,Chinese,Patna,Bihar,4.7,Mid-Range,08:00:00,22:00:00,Active
+REST026,Punjab Grill Diner,Mexican,Udaipur,Rajasthan,3.5,Mid-Range,11:00:00,22:00:00,Active
+REST027,Grand Bites,Street Food,Udaipur,Rajasthan,3.6,Budget,09:00:00,22:00:00,Active
+REST028,Curry Junction,Mughlai,Pune,Maharashtra,4.7,Mid-Range,08:00:00,22:00:00,Active
+REST029,Sizzling Junction,North Indian,Hyderabad,Telangana,4.8,Budget,07:00:00,22:00:00,Active
+REST030,Bombay Bistro,North Indian,Delhi,Delhi,3.6,Mid-Range,09:00:00,22:00:00,Active
+REST031,The Kitchen of Café,Fast Food,Hyderabad,Telangana,3.6,Premium,08:00:00,22:00:00,Inactive
+REST032,Tandoor Express,Continental,Surat,Gujarat,4.6,Budget,08:00:00,22:00:00,Active
+REST033,Delight Kitchen,North Indian,Delhi,Delhi,3.7,Premium,11:00:00,22:00:00,Active
+REST034,Little Italy Restaurant,Mughlai,Mysore,Karnataka,3.8,Mid-Range,08:00:00,23:00:00,Active
+REST035,The Kitchen of Treats,Mexican,Amritsar,Punjab,4.6,Mid-Range,08:00:00,22:00:00,Active
+REST036,Royal Diner,North Indian,Guwahati,Assam,3.4,Mid-Range,07:00:00,23:00:00,Active
+REST037,Southern Eatery,South Indian,Mumbai,Maharashtra,3.7,Budget,07:00:00,22:00:00,Active
+REST038,Tandoor Treats,Mexican,Lucknow,Uttar Pradesh,3.9,Mid-Range,10:00:00,22:00:00,Active
+REST039,Flavours of Treats,Fast Food,Patna,Bihar,3.8,Mid-Range,09:00:00,23:00:00,Active
+REST040,Little Italy Bistro,Punjabi,Bhopal,Madhya Pradesh,4.3,Mid-Range,07:00:00,23:00:00,Active

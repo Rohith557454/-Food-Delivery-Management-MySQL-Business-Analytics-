@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,phone,gender,date_of_birth,registration_date,city,state,pincode,customer_status,preferred_payment_method
+CUST0001,Vihaan,Bansal,vihaan.bansal@yahoo.com,9339670711,Male,1970-07-09,2026-01-21,Bhopal,Madhya Pradesh,552418,Active,Credit Card
+CUST0002,Varun,Williams,varun.williams@mail.com,9128492780,Male,1975-11-03,2026-01-21,Chennai,Tamil Nadu,581030,Active,Credit Card
+CUST0003,Gaurav,Pillai,gaurav.pillai@outlook.com,9266944844,Male,1977-04-26,2023-07-29,Jaipur,Rajasthan,211415,Active,UPI
+CUST0004,Diya,Ghosh,diya.ghosh@mail.com,9234031070,Female,1991-12-17,2026-02-04,Visakhapatnam,Andhra Pradesh,769177,Active,UPI
+CUST0005,Reyansh,Gupta,reyansh.gupta@yahoo.com,9930075810,Male,1983-12-18,2024-04-21,Jaipur,Rajasthan,401477,Active,UPI
+CUST0006,Rajesh,Menon,rajesh.menon@yahoo.com,9819595113,Male,1981-12-14,2023-05-27,Patna,Bihar,289452,Active,Debit Card
+CUST0007,Pankaj,Banerjee,pankaj.banerjee@outlook.com,9787194506,Male,1977-09-14,2023-04-25,Visakhapatnam,Andhra Pradesh,143660,Active,Cash on Delivery
+CUST0008,Kiara,Chopra,kiara.chopra@mail.com,9870854579,Female,1986-03-26,2025-10-19,Ranchi,Jharkhand,784080,Active,UPI
+CUST0009,Siddharth,Miller,siddharth.miller@mail.com,9382116655,Male,1996-06-08,2025-03-28,Chennai,Tamil Nadu,255052,Active,Credit Card
+CUST0010,Krishna,Iyer,krishna.iyer@yahoo.com,9950488739,Male,1995-11-16,2023-05-11,Jaipur,Rajasthan,734835,Inactive,Net Banking
+CUST0011,Mia,Sharma,mia.sharma@gmail.com,9831980933,Female,2006-03-05,2024-11-27,Kolkata,West Bengal,565885,Active,Credit Card
+CUST0012,Ava,Shah,ava.shah@mail.com,9214257751,Female,1984-10-10,2025-11-05,Hyderabad,Telangana,270264,Active,Debit Card
+CUST0013,Joseph,Desai,joseph.desai@hotmail.com,9120912992,Male,1968-01-14,2024-09-21,Pune,Maharashtra,362573,Inactive,Credit Card
+CUST0014,Michael,Singh,michael.singh@mail.com,9922308461,Male,1969-04-13,2025-08-31,Mysore,Karnataka,387933,Active,Net Banking
+CUST0015,Priya,Jones,priya.jones@yahoo.com,9865523129,Female,1985-12-19,2025-02-03,Ranchi,Jharkhand,652718,Active,Debit Card
+CUST0016,Reyansh,Pillai,reyansh.pillai@gmail.com,9731691672,Male,1978-08-24,2024-03-27,Nagpur,Maharashtra,852226,Active,Debit Card
+CUST0017,Aditya,Pillai,aditya.pillai@gmail.com,9652070932,Male,1979-05-09,2025-09-21,Ludhiana,Punjab,248740,Active,Net Banking
+CUST0018,Divya,Smith,divya.smith@hotmail.com,9304451095,Female,1966-06-18,2025-06-01,Udaipur,Rajasthan,541072,Active,Wallet
+CUST0019,Sai,Kumar,sai.kumar@hotmail.com,9881913386,Male,1988-06-10,2024-05-24,Hyderabad,Telangana,672337,Active,Cash on Delivery
+CUST0020,Deepak,Ghosh,deepak.ghosh@yahoo.com,9180943908,Male,1997-10-03,2023-07-20,Patna,Bihar,676848,Active,Credit Card
+CUST0021,Karan,Das,karan.das@hotmail.com,9616854671,Male,1977-03-06,2023-05-01,Jaipur,Rajasthan,112261,Inactive,UPI
+CUST0022,Meera,Sen,meera.sen@mail.com,9810678904,Female,2001-08-30,2024-01-24,Hyderabad,Telangana,171325,Active,Net Banking
+CUST0023,Amit,Kumar,amit.kumar@gmail.com,9727255918,Male,2000-10-10,2025-12-23,Pune,Maharashtra,642497,Active,Debit Card
+CUST0024,Joseph,Singh,joseph.singh@yahoo.com,9533550699,Male,1968-10-03,2024-05-19,Indore,Madhya Pradesh,151673,Active,Cash on Delivery
+CUST0025,Shreya,Chopra,shreya.chopra@outlook.com,9356287095,Female,1981-10-30,2023-09-26,Kolkata,West Bengal,589435,Active,Credit Card
+CUST0026,Pankaj,Moore,pankaj.moore@mail.com,9207354053,Male,1964-07-28,2024-03-12,Coimbatore,Tamil Nadu,248891,Inactive,Credit Card
+CUST0027,Rajesh,Saxena,rajesh.saxena@yahoo.com,9570497096,Male,2006-09-26,2026-06-06,Chandigarh,Punjab,118204,Active,Net Banking
+CUST0028,Anika,Nair,anika.nair@outlook.com,9223940587,Female,1967-08-09,2023-11-15,Kolkata,West Bengal,744211,Active,UPI
+CUST0029,Manish,Williams,manish.williams@hotmail.com,9369639388,Male,1962-07-23,2026-07-23,Visakhapatnam,Andhra Pradesh,400121,Active,UPI
+CUST0030,Manish,Mehta,manish.mehta@hotmail.com,9692362342,Male,1996-05-15,2023-01-20,Nagpur,Maharashtra,834587,Inactive,Net Banking
+CUST0031,Rajesh,Wilson,rajesh.wilson@mail.com,9259014493,Male,1996-07-23,2023-03-27,Surat,Gujarat,151833,Inactive,Debit Card
+CUST0032,Sai,Menon,sai.menon@mail.com,9536344399,Male,1971-11-13,2023-11-29,Ranchi,Jharkhand,542323,Active,Wallet
+CUST0033,Pallavi,Kapoor,pallavi.kapoor@outlook.com,9270937380,Female,1967-09-13,2023-03-21,Chennai,Tamil Nadu,319268,Active,Cash on Delivery
+CUST0034,Nisha,Malhotra,nisha.malhotra@yahoo.com,9125409494,Female,1975-04-30,2024-11-03,Amritsar,Punjab,182793,Inactive,UPI
+CUST0035,Ava,Mukherjee,ava.mukherjee@mail.com,9455569462,Female,1960-06-23,2024-06-18,Bhopal,Madhya Pradesh,388362,Active,Net Banking
+CUST0036,Anjali,Desai,anjali.desai@hotmail.com,9750911797,Female,2003-11-19,2025-02-27,Hyderabad,Telangana,377096,Active,Cash on Delivery
+CUST0037,John,Jones,john.jones@yahoo.com,9491079829,Male,1996-09-10,2024-11-07,Ahmedabad,Gujarat,805613,Active,Wallet
+CUST0038,Ava,Trivedi,ava.trivedi@hotmail.com,9450236225,Female,1994-02-06,2026-02-09,Hyderabad,Telangana,550870,Active,Cash on Delivery
+CUST0039,Ryan,Davis,ryan.davis@outlook.com,9536019893,Male,1958-01-14,2024-08-10,Udaipur,Rajasthan,718159,Active,UPI
+CUST0040,Deepika,Bose,deepika.bose@yahoo.com,9648868899,Female,2000-06-14,2023-06-23,Chandigarh,Punjab,806102,Active,UPI
+CUST0041,Siddharth,Trivedi,siddharth.trivedi@yahoo.com,9966040317,Male,1975-11-13,2023-02-20,Chennai,Tamil Nadu,608217,Active,Credit Card
+CUST0042,Pallavi,Davis,pallavi.davis@yahoo.com,9871318048,Female,1992-06-13,2025-03-29,Bangalore,Karnataka,797927,Active,Credit Card
+CUST0043,Kavya,Shah,kavya.shah@mail.com,9598806645,Female,1962-07-04,2024-05-25,Lucknow,Uttar Pradesh,249817,Active,Wallet
+CUST0044,Deepika,Moore,deepika.moore@mail.com,9558209399,Female,1998-01-02,2025-08-30,Coimbatore,Tamil Nadu,898296,Active,Wallet
+CUST0045,Sophia,Johnson,sophia.johnson@yahoo.com,9394846763,Female,1997-06-18,2024-08-08,Coimbatore,Tamil Nadu,462162,Active,Net Banking
+CUST0046,Ishaan,Iyer,ishaan.iyer@yahoo.com,9511281012,Male,1971-09-17,2023-05-12,Udaipur,Rajasthan,456955,Active,Cash on Delivery
+CUST0047,Nikhil,Das,nikhil.das@hotmail.com,9926561919,Male,1959-10-03,2025-02-18,Mumbai,Maharashtra,478846,Active,Cash on Delivery
+CUST0048,Isabella,Jones,isabella.jones@mail.com,9336801619,Female,2001-10-20,2024-07-12,Kanpur,Uttar Pradesh,140435,Active,Wallet
+CUST0049,Neha,Ghosh,neha.ghosh@yahoo.com,9768143326,Female,2005-12-02,2025-03-17,Bhopal,Madhya Pradesh,805206,Active,Wallet
+CUST0050,Riya,Ghosh,riya.ghosh@yahoo.com,9153992714,Female,1981-05-04,2024-11-01,Lucknow,Uttar Pradesh,452723,Active,Cash on Delivery
+CUST0051,Pallavi,Agarwal,pallavi.agarwal@gmail.com,9604988121,Female,1959-09-28,2023-04-17,Chennai,Tamil Nadu,791726,Active,Wallet
+CUST0052,Vihaan,Kapoor,vihaan.kapoor@yahoo.com,9121882877,Male,1971-09-03,2023-09-16,Kochi,Kerala,229947,Active,Debit Card
+CUST0053,Shreya,Chatterjee,shreya.chatterjee@yahoo.com,9750572325,Female,1968-04-11,2024-09-29,Bhopal,Madhya Pradesh,136926,Inactive,Net Banking
+CUST0054,Rekha,Joshi,rekha.joshi@gmail.com,9735760237,Female,1979-10-15,2024-09-09,Vadodara,Gujarat,236936,Active,Net Banking
+CUST0055,Sanjay,Jones,sanjay.jones@hotmail.com,9810303128,Male,1991-03-31,2025-11-02,Ahmedabad,Gujarat,123267,Active,Cash on Delivery
+CUST0056,Gaurav,Chatterjee,gaurav.chatterjee@hotmail.com,9859466878,Male,1971-09-23,2023-12-27,Patna,Bihar,393202,Active,Net Banking
+CUST0057,Sakshi,Sen,sakshi.sen@mail.com,9388187517,Female,1986-12-01,2023-06-27,Ranchi,Jharkhand,582701,Active,Cash on Delivery
+CUST0058,Radhika,Verma,radhika.verma@hotmail.com,9448981305,Female,1974-04-25,2024-03-10,Vadodara,Gujarat,380903,Active,Net Banking
+CUST0059,Mia,Sharma,mia.sharma@mail.com,9305145276,Female,1965-09-06,2025-04-12,Ludhiana,Punjab,361998,Active,Wallet
+CUST0060,Deepika,Verma,deepika.verma@gmail.com,9415933049,Female,1977-11-18,2024-05-13,Kochi,Kerala,719806,Active,Net Banking
+CUST0061,Preeti,Miller,preeti.miller@outlook.com,9477753674,Female,1998-09-16,2024-09-19,Chennai,Tamil Nadu,236517,Active,UPI
+CUST0062,Robert,Shah,robert.shah@yahoo.com,9332341238,Male,2001-06-10,2026-04-22,Indore,Madhya Pradesh,406746,Inactive,Debit Card
+CUST0063,Kavya,Chatterjee,kavya.chatterjee@yahoo.com,9424557359,Female,1959-04-09,2023-09-17,Pune,Maharashtra,167175,Active,Wallet
+CUST0064,Michael,Reddy,michael.reddy@gmail.com,9716396766,Male,1983-07-06,2025-09-07,Ahmedabad,Gujarat,303320,Inactive,UPI
+CUST0065,Ira,Singh,ira.singh@hotmail.com,9628008852,Female,1964-08-24,2026-07-13,Bangalore,Karnataka,266446,Active,UPI
+CUST0066,Siddharth,Rao,siddharth.rao@mail.com,9920814900,Male,1995-05-04,2026-05-05,Chennai,Tamil Nadu,657958,Active,Cash on Delivery
+CUST0067,Amelia,Sen,amelia.sen@outlook.com,9710561240,Female,1963-05-28,2023-07-23,Patna,Bihar,331276,Active,Credit Card
+CUST0068,Siddharth,Shah,siddharth.shah@mail.com,9180600295,Male,1972-01-17,2025-04-16,Thiruvananthapuram,Kerala,732657,Active,Credit Card
+CUST0069,Ravi,Saxena,ravi.saxena@hotmail.com,9176428684,Male,1978-12-10,2026-07-04,Kochi,Kerala,317429,Active,Net Banking
+CUST0070,Rohan,Bansal,rohan.bansal@yahoo.com,9176675731,Male,1963-05-09,2024-09-21,Guwahati,Assam,706857,Inactive,Cash on Delivery
+CUST0071,Pankaj,Trivedi,pankaj.trivedi@hotmail.com,9392322121,Male,2002-11-25,2025-10-08,Nagpur,Maharashtra,737087,Active,Cash on Delivery
+CUST0072,Emily,Agarwal,emily.agarwal@gmail.com,9198061499,Female,1978-07-16,2026-04-17,Nashik,Maharashtra,814939,Active,Net Banking
+CUST0073,Rahul,Smith,rahul.smith@mail.com,9799552991,Male,1997-09-03,2024-01-07,Udaipur,Rajasthan,775621,Active,Credit Card
+CUST0074,Anjali,Das,anjali.das@outlook.com,9444733679,Female,1967-05-21,2024-11-06,Thiruvananthapuram,Kerala,629537,Active,Cash on Delivery
+CUST0075,Pankaj,Patel,pankaj.patel@outlook.com,9371011200,Male,1987-01-02,2025-04-07,Visakhapatnam,Andhra Pradesh,111207,Active,Net Banking
+CUST0076,Pallavi,Kumar,pallavi.kumar@yahoo.com,9656670062,Female,1990-06-16,2025-10-17,Lucknow,Uttar Pradesh,164119,Active,Net Banking
+CUST0077,Ravi,Bose,ravi.bose@hotmail.com,9230380269,Male,1960-08-03,2026-05-31,Thiruvananthapuram,Kerala,276072,Active,Credit Card
+CUST0078,Myra,Malhotra,myra.malhotra@gmail.com,9595475899,Female,1968-07-16,2023-11-12,Raipur,Chhattisgarh,861414,Active,Wallet
+CUST0079,Pallavi,Smith,pallavi.smith@hotmail.com,9361704064,Female,1998-12-24,2023-10-24,Hyderabad,Telangana,738493,Active,Debit Card
+CUST0080,Deepak,Das,deepak.das@outlook.com,9945805127,Male,2003-07-21,2023-01-06,Guwahati,Assam,423059,Active,Net Banking
+CUST0081,Isha,Bose,isha.bose@mail.com,9620057604,Female,1988-12-18,2026-02-04,Jaipur,Rajasthan,587464,Inactive,Debit Card
+CUST0082,Matthew,Banerjee,matthew.banerjee@yahoo.com,9932734539,Male,1994-11-08,2024-10-13,Thiruvananthapuram,Kerala,509750,Active,Wallet
+CUST0083,Michael,Gupta,michael.gupta@yahoo.com,9639331014,Male,1987-10-14,2025-06-20,Chandigarh,Punjab,589124,Active,Debit Card
+CUST0084,Isha,Singh,isha.singh@hotmail.com,9939156387,Female,1981-10-11,2026-06-30,Patna,Bihar,194217,Inactive,Wallet
+CUST0085,Swati,Johnson,swati.johnson@mail.com,9138546365,Female,1964-02-21,2026-07-16,Chennai,Tamil Nadu,893042,Active,Credit Card
+CUST0086,Naveen,Mehta,naveen.mehta@outlook.com,9131081879,Male,1962-02-16,2023-04-25,Surat,Gujarat,503050,Active,Debit Card
+CUST0087,Charlotte,Shah,charlotte.shah@yahoo.com,9287979290,Female,1965-01-31,2025-02-22,Kochi,Kerala,362529,Active,Net Banking
+CUST0088,Varun,Ghosh,varun.ghosh@outlook.com,9593460064,Male,1980-11-27,2025-08-10,Kochi,Kerala,683150,Active,Cash on Delivery
+CUST0089,Amelia,Trivedi,amelia.trivedi@hotmail.com,9841218491,Female,1980-06-09,2024-09-10,Jaipur,Rajasthan,616681,Active,Cash on Delivery
+CUST0090,Charlotte,Saxena,charlotte.saxena@outlook.com,9123557463,Female,1993-07-05,2023-01-17,Amritsar,Punjab,829113,Active,Credit Card
+CUST0091,Meera,Malhotra,meera.malhotra@mail.com,9961067882,Female,1989-08-10,2026-07-27,Indore,Madhya Pradesh,372802,Active,Wallet
+CUST0092,Sai,Gupta,sai.gupta@outlook.com,9946764061,Male,1997-07-19,2026-04-01,Guwahati,Assam,247796,Active,UPI
+CUST0093,Pallavi,Shah,pallavi.shah@yahoo.com,9241905500,Female,2006-05-24,2025-12-23,Raipur,Chhattisgarh,395766,Active,UPI
+CUST0094,Meera,Pillai,meera.pillai@gmail.com,9602866993,Female,1964-10-03,2024-04-07,Amritsar,Punjab,694385,Active,Cash on Delivery
+CUST0095,Manish,Jones,manish.jones@gmail.com,9588322781,Male,1991-01-25,2026-04-12,Visakhapatnam,Andhra Pradesh,779568,Inactive,Credit Card
+CUST0096,James,Verma,james.verma@mail.com,9702806585,Male,1987-06-06,2024-03-29,Nagpur,Maharashtra,776270,Active,Wallet
+CUST0097,Pallavi,Rao,pallavi.rao@yahoo.com,9148690765,Female,1961-05-04,2025-10-05,Delhi,Delhi,356206,Inactive,Debit Card
+CUST0098,Sakshi,Chatterjee,sakshi.chatterjee@mail.com,9550033924,Female,1971-11-12,2023-07-22,Indore,Madhya Pradesh,537941,Inactive,UPI
+CUST0099,Rajesh,Chopra,rajesh.chopra@hotmail.com,9577488537,Male,1979-03-08,2023-07-23,Ludhiana,Punjab,786150,Active,Cash on Delivery
+CUST0100,Sneha,Rao,sneha.rao@hotmail.com,9198433586,Female,1977-01-11,2026-05-07,Pune,Maharashtra,459710,Active,Debit Card
+CUST0101,Reyansh,Miller,reyansh.miller@yahoo.com,9729624046,Male,1977-05-17,2024-11-03,Vadodara,Gujarat,734933,Active,Debit Card
+CUST0102,Robert,Agarwal,robert.agarwal@yahoo.com,9218032515,Male,1960-04-24,2023-01-31,Vadodara,Gujarat,359490,Active,Credit Card
+CUST0103,Manish,Kumar,manish.kumar@yahoo.com,9896413702,Male,1995-10-08,2023-08-21,Kanpur,Uttar Pradesh,580051,Active,Net Banking
+CUST0104,Naveen,Williams,naveen.williams@yahoo.com,9760465943,Male,1961-11-21,2025-12-03,Lucknow,Uttar Pradesh,784592,Inactive,Credit Card
+CUST0105,Rekha,Sen,rekha.sen@gmail.com,9626422169,Female,1997-10-17,2023-06-15,Indore,Madhya Pradesh,265540,Active,UPI
+CUST0106,Kavita,Taylor,kavita.taylor@mail.com,9416644047,Female,1998-09-15,2026-05-24,Delhi,Delhi,845870,Active,Wallet
+CUST0107,Gaurav,Bose,gaurav.bose@yahoo.com,9544328940,Male,1988-05-29,2025-03-27,Guwahati,Assam,209705,Active,UPI
+CUST0108,Sunita,Iyer,sunita.iyer@hotmail.com,9172083844,Female,1966-03-09,2023-07-10,Delhi,Delhi,890759,Active,Debit Card
+CUST0109,Andrew,Miller,andrew.miller@mail.com,9453954673,Male,1968-12-19,2024-12-25,Amritsar,Punjab,866087,Active,UPI
+CUST0110,Anjali,Reddy,anjali.reddy@mail.com,9644830077,Female,1977-02-01,2025-09-14,Amritsar,Punjab,223476,Active,Net Banking
+CUST0111,Ira,Bansal,ira.bansal@mail.com,9342836476,Female,1996-07-01,2026-06-27,Kochi,Kerala,783919,Active,Net Banking
+CUST0112,Ananya,Shah,ananya.shah@outlook.com,9854517058,Female,1985-09-20,2024-12-19,Mysore,Karnataka,260211,Active,Cash on Delivery
+CUST0113,Rohan,Verma,rohan.verma@gmail.com,9901131404,Male,2005-08-04,2025-02-09,Lucknow,Uttar Pradesh,467456,Active,UPI
+CUST0114,Charlotte,Taylor,charlotte.taylor@gmail.com,9156488296,Female,1971-12-17,2026-06-19,Kochi,Kerala,195545,Active,Wallet
+CUST0115,Olivia,Taylor,olivia.taylor@hotmail.com,9544726404,Female,1982-07-05,2025-11-15,Surat,Gujarat,560798,Active,Wallet
+CUST0116,Sophia,Trivedi,sophia.trivedi@gmail.com,9336779871,Female,1993-06-17,2023-04-23,Hyderabad,Telangana,426062,Inactive,Debit Card
+CUST0117,Meera,Desai,meera.desai@gmail.com,9108299923,Female,2002-08-16,2023-12-26,Jaipur,Rajasthan,668454,Active,Net Banking
+CUST0118,Kiara,Mukherjee,kiara.mukherjee@gmail.com,9568387228,Female,1959-09-07,2023-06-09,Bhopal,Madhya Pradesh,560138,Active,Wallet
+CUST0119,Meera,Rao,meera.rao@hotmail.com,9122394554,Female,1987-02-20,2026-06-19,Visakhapatnam,Andhra Pradesh,833109,Inactive,Credit Card
+CUST0120,Anika,Kapoor,anika.kapoor@hotmail.com,9732295732,Female,1993-12-04,2023-06-11,Amritsar,Punjab,435347,Active,Debit Card
+CUST0121,Neha,Singh,neha.singh@mail.com,9779919809,Female,1968-03-25,2025-11-10,Ranchi,Jharkhand,476347,Active,Wallet
+CUST0122,Siddharth,Reddy,siddharth.reddy@yahoo.com,9374843786,Male,1975-09-13,2026-05-18,Nashik,Maharashtra,797352,Active,Wallet
+CUST0123,Sakshi,Davis,sakshi.davis@mail.com,9582008349,Female,1986-12-30,2024-10-09,Lucknow,Uttar Pradesh,181604,Active,Wallet
+CUST0124,Aditi,Wilson,aditi.wilson@gmail.com,9477895080,Female,2003-07-08,2024-09-27,Lucknow,Uttar Pradesh,149435,Active,UPI
+CUST0125,Arjun,Moore,arjun.moore@mail.com,9644459924,Male,1992-06-29,2026-04-03,Vadodara,Gujarat,884815,Inactive,Cash on Delivery
+CUST0126,Amit,Taylor,amit.taylor@hotmail.com,9638339044,Male,1971-07-15,2025-07-11,Vadodara,Gujarat,470121,Inactive,Credit Card
+CUST0127,Aditya,Kapoor,aditya.kapoor@hotmail.com,9571825556,Male,2005-01-06,2026-06-02,Surat,Gujarat,500964,Inactive,Cash on Delivery
+CUST0128,Radhika,Taylor,radhika.taylor@gmail.com,9947425963,Female,1988-01-09,2024-11-06,Ludhiana,Punjab,821333,Active,UPI
+CUST0129,Vikram,Patel,vikram.patel@mail.com,9812548074,Male,1970-09-09,2024-09-27,Thiruvananthapuram,Kerala,804300,Active,Net Banking
+CUST0130,Suresh,Miller,suresh.miller@hotmail.com,9790945624,Male,1987-06-21,2025-12-14,Patna,Bihar,813025,Active,UPI
+CUST0131,Rajesh,Trivedi,rajesh.trivedi@yahoo.com,9329987621,Male,1988-08-28,2024-01-29,Bangalore,Karnataka,272472,Active,Credit Card
+CUST0132,Vikram,Moore,vikram.moore@yahoo.com,9741288486,Male,1991-10-19,2023-11-29,Visakhapatnam,Andhra Pradesh,836502,Active,Debit Card
+CUST0133,Diya,Das,diya.das@outlook.com,9826239153,Female,1979-04-24,2026-06-04,Nashik,Maharashtra,894898,Active,Debit Card
+CUST0134,Suresh,Smith,suresh.smith@yahoo.com,9494966219,Male,1997-07-12,2024-07-31,Chandigarh,Punjab,663082,Active,Debit Card
+CUST0135,Joseph,Nair,joseph.nair@outlook.com,9156027635,Male,2001-02-11,2026-02-09,Thiruvananthapuram,Kerala,650971,Inactive,UPI
+CUST0136,Karan,Bansal,karan.bansal@hotmail.com,9651208305,Male,1971-03-22,2023-07-07,Visakhapatnam,Andhra Pradesh,583042,Inactive,Credit Card
+CUST0137,Aadhya,Mukherjee,aadhya.mukherjee@mail.com,9501538092,Female,1979-02-25,2023-06-17,Chennai,Tamil Nadu,139557,Active,Credit Card
+CUST0138,Isha,Nair,isha.nair@gmail.com,9408034406,Female,2000-05-21,2025-08-18,Indore,Madhya Pradesh,115507,Inactive,Credit Card
+CUST0139,Priya,Iyer,priya.iyer@mail.com,9880862406,Female,2005-05-08,2023-08-16,Chennai,Tamil Nadu,425780,Active,Debit Card
+CUST0140,Grace,Ghosh,grace.ghosh@gmail.com,9219032752,Female,2002-11-04,2026-01-02,Patna,Bihar,650411,Active,Wallet
+CUST0141,Ravi,Sen,ravi.sen@gmail.com,9760146764,Male,1989-08-27,2026-03-14,Mysore,Karnataka,806644,Active,Net Banking
+CUST0142,Kiara,Brown,kiara.brown@mail.com,9644738967,Female,2003-07-17,2023-02-11,Amritsar,Punjab,602973,Active,Cash on Delivery
+CUST0143,Shreya,Verma,shreya.verma@outlook.com,9946666926,Female,1964-01-23,2024-05-08,Patna,Bihar,218700,Active,Wallet
+CUST0144,Riya,Gupta,riya.gupta@outlook.com,9686277792,Female,1988-05-16,2023-12-25,Thiruvananthapuram,Kerala,611777,Active,Debit Card
+CUST0145,Pankaj,Gupta,pankaj.gupta@outlook.com,9316456682,Male,1961-12-06,2023-03-27,Raipur,Chhattisgarh,435139,Active,Net Banking
+CUST0146,Shreya,Gupta,shreya.gupta@yahoo.com,9407209235,Female,1990-01-10,2024-11-10,Delhi,Delhi,495897,Active,Cash on Delivery
+CUST0147,Kavita,Pillai,kavita.pillai@yahoo.com,9632794158,Female,2002-08-20,2025-11-29,Vadodara,Gujarat,196625,Active,Credit Card
+CUST0148,Emily,Shah,emily.shah@mail.com,9415429295,Female,1986-10-26,2023-06-13,Kochi,Kerala,420001,Active,Net Banking
+CUST0149,Neha,Bose,neha.bose@outlook.com,9580101819,Female,1961-10-19,2026-06-13,Coimbatore,Tamil Nadu,780533,Inactive,Credit Card
+CUST0150,Ajay,Chatterjee,ajay.chatterjee@mail.com,9960170255,Male,1972-05-09,2023-10-20,Kochi,Kerala,569458,Active,Credit Card
+CUST0151,Rajesh,Chatterjee,rajesh.chatterjee@hotmail.com,9709074302,Male,1960-11-27,2023-11-11,Surat,Gujarat,500085,Active,Credit Card
+CUST0152,John,Chatterjee,john.chatterjee@hotmail.com,9437568796,Male,1983-01-02,2023-08-21,Guwahati,Assam,305086,Active,Cash on Delivery
+CUST0153,Manish,Agarwal,manish.agarwal@hotmail.com,9330393232,Male,1983-08-15,2024-02-14,Bangalore,Karnataka,187650,Active,Wallet
+CUST0154,Myra,Desai,myra.desai@outlook.com,9861863296,Female,1963-10-29,2026-01-15,Ranchi,Jharkhand,424528,Inactive,Wallet
+CUST0155,Rajesh,Williams,rajesh.williams@yahoo.com,9230311939,Male,1976-01-12,2024-04-29,Mumbai,Maharashtra,488428,Active,UPI
+CUST0156,Mia,Nair,mia.nair@mail.com,9192573170,Female,1963-11-25,2025-03-26,Chandigarh,Punjab,540750,Active,Net Banking
+CUST0157,Ishaan,Desai,ishaan.desai@gmail.com,9583156434,Male,1999-10-17,2024-12-06,Ranchi,Jharkhand,688084,Active,Debit Card
+CUST0158,Gaurav,Williams,gaurav.williams@gmail.com,9992699085,Male,1969-02-20,2023-11-10,Mysore,Karnataka,279835,Active,Wallet
+CUST0159,Sanjay,Brown,sanjay.brown@outlook.com,9184675178,Male,1980-06-25,2026-07-24,Coimbatore,Tamil Nadu,241251,Active,Net Banking
+CUST0160,David,Mehta,david.mehta@mail.com,9723464439,Male,1971-11-01,2026-07-02,Ahmedabad,Gujarat,700997,Active,Credit Card
+CUST0161,Aditya,Davis,aditya.davis@outlook.com,9799145494,Male,1976-11-29,2025-05-03,Patna,Bihar,141758,Active,Wallet
+CUST0162,Nisha,Smith,nisha.smith@yahoo.com,9964027324,Female,1994-06-07,2025-07-17,Thiruvananthapuram,Kerala,172824,Active,Cash on Delivery
+CUST0163,Sakshi,Chopra,sakshi.chopra@outlook.com,9751396498,Female,1970-11-21,2024-10-15,Jaipur,Rajasthan,247119,Active,Net Banking
+CUST0164,Amit,Kapoor,amit.kapoor@hotmail.com,9231556899,Male,1981-12-30,2024-05-22,Delhi,Delhi,163064,Active,Cash on Delivery
+CUST0165,Divya,Mehta,divya.mehta@outlook.com,9720286733,Female,1986-01-21,2023-11-23,Chandigarh,Punjab,599492,Active,UPI
+CUST0166,Ananya,Patel,ananya.patel@hotmail.com,9642716859,Female,1999-01-08,2024-03-16,Surat,Gujarat,161022,Active,Cash on Delivery
+CUST0167,Meera,Jones,meera.jones@gmail.com,9215424112,Female,1996-08-29,2024-06-25,Nashik,Maharashtra,532843,Active,Cash on Delivery
+CUST0168,Matthew,Miller,matthew.miller@yahoo.com,9489256938,Male,1983-11-22,2025-03-02,Lucknow,Uttar Pradesh,686567,Active,Net Banking
+CUST0169,Ishaan,Reddy,ishaan.reddy@hotmail.com,9500718660,Male,1988-06-03,2025-01-18,Hyderabad,Telangana,741729,Active,Net Banking
+CUST0170,Aditya,Gupta,aditya.gupta@yahoo.com,9866213410,Male,1987-11-18,2025-11-29,Bangalore,Karnataka,745711,Inactive,Debit Card
+CUST0171,Grace,Desai,grace.desai@yahoo.com,9521931770,Female,1984-11-05,2024-11-19,Visakhapatnam,Andhra Pradesh,644474,Active,Wallet
+CUST0172,Emma,Verma,emma.verma@outlook.com,9455665802,Female,1967-11-01,2026-04-10,Vadodara,Gujarat,870558,Inactive,Wallet
+CUST0173,Joseph,Smith,joseph.smith@outlook.com,9803935444,Male,1978-06-01,2026-04-10,Mysore,Karnataka,659698,Active,Net Banking
+CUST0174,Isha,Kapoor,isha.kapoor@gmail.com,9714792641,Female,1967-11-11,2023-02-08,Ahmedabad,Gujarat,549123,Active,Wallet
+CUST0175,Vishal,Williams,vishal.williams@mail.com,9606382505,Male,1963-08-03,2025-11-28,Ludhiana,Punjab,450840,Inactive,Cash on Delivery
+CUST0176,Swati,Shah,swati.shah@hotmail.com,9672440825,Female,1988-09-17,2024-12-26,Vadodara,Gujarat,836992,Active,Cash on Delivery
+CUST0177,Siddharth,Bansal,siddharth.bansal@mail.com,9420511037,Male,1978-03-05,2024-08-14,Thiruvananthapuram,Kerala,849234,Active,Cash on Delivery
+CUST0178,Mia,Bansal,mia.bansal@outlook.com,9230861323,Female,2006-09-25,2025-03-19,Nashik,Maharashtra,263592,Active,UPI
+CUST0179,Sanjay,Bose,sanjay.bose@outlook.com,9902448600,Male,2000-12-24,2024-02-18,Coimbatore,Tamil Nadu,699319,Active,Debit Card
+CUST0180,Ryan,Wilson,ryan.wilson@yahoo.com,9360337343,Male,1962-07-22,2024-04-07,Chennai,Tamil Nadu,165041,Active,UPI
+CUST0181,Anika,Nair,anika.nair@gmail.com,9690936560,Female,1972-03-03,2025-09-01,Patna,Bihar,319145,Active,UPI
+CUST0182,Meera,Kumar,meera.kumar@gmail.com,9800400428,Female,1978-11-01,2023-03-18,Udaipur,Rajasthan,294328,Inactive,Credit Card
+CUST0183,Olivia,Shah,olivia.shah@outlook.com,9140229006,Female,1958-10-31,2026-03-09,Delhi,Delhi,461318,Active,Wallet
+CUST0184,Riya,Williams,riya.williams@hotmail.com,9392956587,Female,1975-04-20,2024-11-08,Guwahati,Assam,591207,Active,Wallet
+CUST0185,Aarav,Pillai,aarav.pillai@outlook.com,9709650444,Male,1975-05-01,2026-06-05,Ranchi,Jharkhand,535188,Active,Net Banking
+CUST0186,Myra,Mukherjee,myra.mukherjee@gmail.com,9298407302,Female,1970-08-13,2024-10-24,Mumbai,Maharashtra,383454,Active,Cash on Delivery
+CUST0187,Radhika,Trivedi,radhika.trivedi@mail.com,9876189202,Female,1959-01-10,2025-01-06,Pune,Maharashtra,810225,Active,UPI
+CUST0188,Ajay,Williams,ajay.williams@outlook.com,9841193655,Male,1968-07-14,2024-08-27,Indore,Madhya Pradesh,341578,Active,Debit Card
+CUST0189,Isha,Ghosh,isha.ghosh@mail.com,9501176618,Female,1995-04-23,2025-08-22,Vadodara,Gujarat,806354,Active,Debit Card
+CUST0190,John,Bose,john.bose@mail.com,9855663125,Male,1990-06-16,2026-03-01,Pune,Maharashtra,684252,Inactive,Debit Card
+CUST0191,Karan,Desai,karan.desai@mail.com,9574422684,Male,1968-06-05,2026-04-09,Nagpur,Maharashtra,645168,Active,Credit Card
+CUST0192,Riya,Williams,riya.williams2@hotmail.com,9705495031,Female,1963-03-07,2025-08-04,Guwahati,Assam,132828,Active,Credit Card
+CUST0193,Andrew,Singh,andrew.singh@gmail.com,9554941605,Male,1988-11-28,2026-01-13,Raipur,Chhattisgarh,182372,Inactive,Cash on Delivery
+CUST0194,Ravi,Das,ravi.das@yahoo.com,9925677464,Male,1970-02-24,2025-05-10,Ranchi,Jharkhand,511059,Active,Cash on Delivery
+CUST0195,Myra,Jones,myra.jones@yahoo.com,9801726890,Female,1989-03-14,2024-01-01,Jaipur,Rajasthan,664532,Active,Debit Card
+CUST0196,Vihaan,Trivedi,vihaan.trivedi@hotmail.com,9823164961,Male,2006-11-05,2025-12-25,Visakhapatnam,Andhra Pradesh,350821,Active,UPI
+CUST0197,Deepak,Joshi,deepak.joshi@gmail.com,9134593072,Male,1995-08-12,2023-02-02,Hyderabad,Telangana,180560,Active,Credit Card
+CUST0198,Emily,Kumar,emily.kumar@yahoo.com,9895149930,Female,1961-12-20,2025-06-17,Ludhiana,Punjab,337824,Active,Credit Card
+CUST0199,David,Saxena,david.saxena@yahoo.com,9975943821,Male,1986-08-11,2026-05-09,Chennai,Tamil Nadu,426423,Inactive,Wallet
+CUST0200,Vishal,Trivedi,vishal.trivedi@outlook.com,9165452764,Male,1973-09-17,2025-05-24,Kanpur,Uttar Pradesh,159162,Inactive,Wallet
+CUST0201,Sophia,Desai,sophia.desai@hotmail.com,9538364955,Female,1971-05-22,2025-02-09,Nashik,Maharashtra,674059,Active,Debit Card
+CUST0202,Isha,Ghosh,isha.ghosh@gmail.com,9703857319,Female,1995-01-09,2026-02-15,Bangalore,Karnataka,517287,Active,Debit Card
+CUST0203,Myra,Bose,myra.bose@outlook.com,9199282456,Female,2006-01-20,2023-04-16,Jaipur,Rajasthan,816397,Active,Credit Card
+CUST0204,Aman,Wilson,aman.wilson@mail.com,9333019716,Male,2001-01-03,2024-11-12,Raipur,Chhattisgarh,126079,Active,Debit Card
+CUST0205,James,Kapoor,james.kapoor@mail.com,9855665764,Male,1976-05-07,2024-05-05,Ahmedabad,Gujarat,406810,Active,Net Banking
+CUST0206,Nisha,Agarwal,nisha.agarwal@outlook.com,9650632566,Female,2002-08-12,2023-07-21,Nashik,Maharashtra,445789,Inactive,UPI
+CUST0207,Pallavi,Gupta,pallavi.gupta@mail.com,9337591250,Female,1971-02-03,2024-06-18,Raipur,Chhattisgarh,722402,Active,Cash on Delivery
+CUST0208,Isha,Joshi,isha.joshi@outlook.com,9346980616,Female,1992-01-29,2024-05-18,Ludhiana,Punjab,796407,Inactive,UPI
+CUST0209,Olivia,Johnson,olivia.johnson@hotmail.com,9280639501,Female,1989-08-06,2023-10-14,Kanpur,Uttar Pradesh,302989,Inactive,Net Banking
+CUST0210,John,Gupta,john.gupta@gmail.com,9978316418,Male,1962-05-09,2025-04-24,Visakhapatnam,Andhra Pradesh,771339,Active,Wallet
+CUST0211,Aarav,Chopra,aarav.chopra@mail.com,9589636644,Male,1991-06-26,2026-06-19,Kochi,Kerala,756468,Inactive,Wallet
+CUST0212,Ananya,Sharma,ananya.sharma@mail.com,9692322761,Female,1994-11-26,2023-02-04,Guwahati,Assam,398087,Active,UPI
+CUST0213,David,Sen,david.sen@yahoo.com,9214908010,Male,1966-08-23,2023-11-01,Hyderabad,Telangana,759888,Active,UPI
+CUST0214,Rekha,Patel,rekha.patel@outlook.com,9535968611,Female,1999-03-07,2024-05-13,Kolkata,West Bengal,827270,Active,Credit Card
+CUST0215,Arjun,Mukherjee,arjun.mukherjee@hotmail.com,9504982743,Male,2000-09-14,2026-07-28,Thiruvananthapuram,Kerala,289709,Active,Cash on Delivery
+CUST0216,Charlotte,Reddy,charlotte.reddy@mail.com,9145689604,Female,1978-08-12,2026-03-06,Coimbatore,Tamil Nadu,158824,Inactive,Wallet
+CUST0217,Isabella,Davis,isabella.davis@gmail.com,9292580427,Female,1986-03-20,2024-02-29,Bangalore,Karnataka,898796,Active,Cash on Delivery
+CUST0218,Suresh,Mehta,suresh.mehta@mail.com,9358205053,Male,1992-11-29,2024-11-10,Nashik,Maharashtra,885680,Active,Wallet
+CUST0219,David,Menon,david.menon@gmail.com,9204889313,Male,1997-03-19,2023-06-05,Indore,Madhya Pradesh,753685,Inactive,Cash on Delivery
+CUST0220,Ananya,Bansal,ananya.bansal@hotmail.com,9626781451,Female,1978-06-20,2026-02-06,Udaipur,Rajasthan,304761,Active,Wallet
+CUST0221,Myra,Moore,myra.moore@outlook.com,9956905222,Female,1980-02-10,2023-06-18,Bangalore,Karnataka,508459,Active,Wallet
+CUST0222,Anil,Desai,anil.desai@outlook.com,9214408183,Male,1966-03-18,2024-09-23,Surat,Gujarat,392871,Active,Credit Card
+CUST0223,Gaurav,Bose,gaurav.bose@mail.com,9695647539,Male,2003-12-22,2023-07-31,Nagpur,Maharashtra,481107,Active,Net Banking
+CUST0224,Kavita,Sharma,kavita.sharma@outlook.com,9544325176,Female,1992-10-16,2026-02-19,Bhopal,Madhya Pradesh,656418,Active,Cash on Delivery
+CUST0225,Ishaan,Bansal,ishaan.bansal@outlook.com,9388199600,Male,2002-03-29,2023-05-10,Udaipur,Rajasthan,399367,Active,Cash on Delivery
+CUST0226,Rajesh,Agarwal,rajesh.agarwal@yahoo.com,9874059895,Male,2002-06-25,2026-06-16,Lucknow,Uttar Pradesh,222169,Active,Credit Card
+CUST0227,Radhika,Moore,radhika.moore@hotmail.com,9963370520,Female,1987-07-26,2024-11-16,Visakhapatnam,Andhra Pradesh,792662,Inactive,Debit Card
+CUST0228,Swati,Taylor,swati.taylor@yahoo.com,9614332794,Female,1986-03-10,2025-03-26,Kolkata,West Bengal,880572,Active,Cash on Delivery
+CUST0229,Amit,Banerjee,amit.banerjee@outlook.com,9976704309,Male,1993-04-02,2023-08-22,Hyderabad,Telangana,730996,Inactive,Debit Card
+CUST0230,Pankaj,Chopra,pankaj.chopra@hotmail.com,9956508307,Male,1984-02-20,2025-04-17,Bangalore,Karnataka,774101,Active,UPI
+CUST0231,Gaurav,Banerjee,gaurav.banerjee@gmail.com,9582181718,Male,2000-12-29,2025-03-31,Chandigarh,Punjab,835310,Active,Credit Card
+CUST0232,Isabella,Taylor,isabella.taylor@gmail.com,9217434526,Female,1980-04-09,2024-12-28,Patna,Bihar,752440,Active,Wallet
+CUST0233,Radhika,Sen,radhika.sen@gmail.com,9111325589,Female,1966-11-06,2024-03-30,Guwahati,Assam,653999,Active,Wallet
+CUST0234,Naveen,Chatterjee,naveen.chatterjee@hotmail.com,9597210335,Male,2002-11-25,2024-12-07,Kanpur,Uttar Pradesh,219628,Active,Credit Card
+CUST0235,Rohan,Menon,rohan.menon@outlook.com,9468365044,Male,1998-11-07,2025-12-03,Surat,Gujarat,609293,Active,Wallet
+CUST0236,Swati,Singh,swati.singh@outlook.com,9147978060,Female,1968-04-29,2024-12-03,Delhi,Delhi,820033,Active,Wallet
+CUST0237,John,Shah,john.shah@mail.com,9271944408,Male,1987-09-11,2025-05-23,Chennai,Tamil Nadu,534724,Active,Debit Card
+CUST0238,Rekha,Verma,rekha.verma@mail.com,9311875497,Female,1998-05-02,2025-05-29,Mumbai,Maharashtra,848969,Active,UPI
+CUST0239,Matthew,Reddy,matthew.reddy@mail.com,9300746596,Male,1990-10-26,2024-02-08,Delhi,Delhi,385098,Active,Cash on Delivery
+CUST0240,Emily,Banerjee,emily.banerjee@mail.com,9521490916,Female,1968-04-01,2024-12-21,Indore,Madhya Pradesh,290909,Active,Wallet
+CUST0241,Grace,Wilson,grace.wilson@gmail.com,9821672704,Female,1970-01-07,2023-08-30,Kolkata,West Bengal,232630,Active,Wallet
+CUST0242,David,Banerjee,david.banerjee@hotmail.com,9740407346,Male,1970-05-15,2025-02-24,Mysore,Karnataka,620311,Active,Wallet
+CUST0243,Daniel,Mehta,daniel.mehta@hotmail.com,9410133983,Male,1970-08-03,2024-10-06,Indore,Madhya Pradesh,166216,Inactive,Credit Card
+CUST0244,Riya,Joshi,riya.joshi@hotmail.com,9702994164,Female,2003-05-07,2025-10-10,Kochi,Kerala,625612,Active,Cash on Delivery
+CUST0245,Neha,Patel,neha.patel@mail.com,9133136428,Female,1977-10-14,2023-03-08,Chennai,Tamil Nadu,673724,Active,Cash on Delivery
+CUST0246,Mia,Williams,mia.williams@gmail.com,9714947037,Female,1968-03-31,2026-01-17,Ludhiana,Punjab,153632,Active,Cash on Delivery
+CUST0247,Gaurav,Reddy,gaurav.reddy@yahoo.com,9419662531,Male,1960-11-22,2024-06-22,Amritsar,Punjab,201209,Active,Credit Card
+CUST0248,Nikhil,Wilson,nikhil.wilson@outlook.com,9863166250,Male,1996-05-31,2026-06-15,Vadodara,Gujarat,326657,Active,Credit Card
+CUST0249,Isabella,Bansal,isabella.bansal@mail.com,9678498324,Female,1973-02-08,2024-08-22,Bhopal,Madhya Pradesh,390330,Inactive,Net Banking
+CUST0250,Ishaan,Das,ishaan.das@gmail.com,9397773877,Male,1969-05-20,2024-05-26,Thiruvananthapuram,Kerala,447743,Active,Wallet
+CUST0251,Olivia,Iyer,olivia.iyer@mail.com,9779036456,Female,1982-02-09,2025-04-28,Lucknow,Uttar Pradesh,189185,Active,Credit Card
+CUST0252,Ava,Bansal,ava.bansal@outlook.com,9588225728,Female,2001-10-14,2026-04-06,Amritsar,Punjab,878317,Active,Cash on Delivery
+CUST0253,Kiara,Jones,kiara.jones@hotmail.com,9333893106,Female,1996-07-18,2025-10-10,Ahmedabad,Gujarat,407369,Active,Net Banking
+CUST0254,Matthew,Johnson,matthew.johnson@outlook.com,9832884547,Male,1962-05-06,2023-07-23,Vadodara,Gujarat,591907,Active,Debit Card
+CUST0255,Sakshi,Sharma,sakshi.sharma@hotmail.com,9317237515,Female,1969-11-01,2024-09-10,Amritsar,Punjab,397331,Active,UPI
+CUST0256,Myra,Chatterjee,myra.chatterjee@yahoo.com,9155606161,Female,1993-07-23,2024-09-17,Udaipur,Rajasthan,797327,Active,Credit Card
+CUST0257,Nikhil,Smith,nikhil.smith@gmail.com,9242485313,Male,1978-04-17,2025-06-30,Mumbai,Maharashtra,839387,Active,Credit Card
+CUST0258,Riya,Smith,riya.smith@gmail.com,9345829826,Female,1992-05-14,2023-07-29,Ahmedabad,Gujarat,495417,Inactive,Debit Card
+CUST0259,Riya,Iyer,riya.iyer@gmail.com,9669628927,Female,1958-10-05,2023-12-03,Surat,Gujarat,867525,Active,Wallet
+CUST0260,Vishal,Moore,vishal.moore@hotmail.com,9333264702,Male,1965-10-11,2023-10-14,Bhopal,Madhya Pradesh,875471,Active,Cash on Delivery
+CUST0261,Riya,Kapoor,riya.kapoor@outlook.com,9792156071,Female,1965-07-23,2026-02-07,Indore,Madhya Pradesh,866212,Active,Wallet
+CUST0262,Suresh,Chopra,suresh.chopra@mail.com,9751682766,Male,2003-09-18,2025-03-13,Patna,Bihar,167220,Active,Debit Card
+CUST0263,Kavita,Rao,kavita.rao@yahoo.com,9636422667,Female,1964-05-15,2023-01-25,Raipur,Chhattisgarh,441846,Active,Net Banking
+CUST0264,Sunita,Jones,sunita.jones@yahoo.com,9918970742,Female,2000-04-04,2023-02-04,Nagpur,Maharashtra,124464,Active,Credit Card
+CUST0265,Ajay,Williams,ajay.williams2@mail.com,9923678093,Male,1995-04-09,2025-04-03,Patna,Bihar,672629,Active,Debit Card
+CUST0266,Myra,Trivedi,myra.trivedi@gmail.com,9649009234,Female,1976-03-25,2026-01-03,Jaipur,Rajasthan,724924,Active,Wallet
+CUST0267,Suresh,Sen,suresh.sen@yahoo.com,9162176039,Male,1979-12-08,2025-06-08,Lucknow,Uttar Pradesh,752040,Active,UPI
+CUST0268,Krishna,Sharma,krishna.sharma@yahoo.com,9853229478,Male,1959-01-07,2025-10-13,Chandigarh,Punjab,652348,Active,Wallet
+CUST0269,Neha,Chatterjee,neha.chatterjee@yahoo.com,9905066256,Female,1982-02-10,2023-03-02,Vadodara,Gujarat,560180,Active,Credit Card
+CUST0270,Charlotte,Singh,charlotte.singh@hotmail.com,9588764892,Female,2003-10-29,2023-04-24,Amritsar,Punjab,704424,Active,Debit Card
+CUST0271,Anika,Davis,anika.davis@gmail.com,9345247378,Female,2003-08-26,2023-04-01,Chennai,Tamil Nadu,158216,Active,Cash on Delivery
+CUST0272,Rahul,Gupta,rahul.gupta@mail.com,9962338680,Male,1995-08-16,2024-10-21,Udaipur,Rajasthan,865277,Active,Credit Card
+CUST0273,Ira,Williams,ira.williams@gmail.com,9292569534,Female,1978-01-09,2023-04-05,Nagpur,Maharashtra,597687,Inactive,UPI
+CUST0274,Myra,Miller,myra.miller@hotmail.com,9108556837,Female,1991-02-05,2024-08-20,Vadodara,Gujarat,428673,Active,Debit Card
+CUST0275,Sunita,Wilson,sunita.wilson@hotmail.com,9929587172,Female,1975-07-14,2024-05-17,Mumbai,Maharashtra,539955,Active,Net Banking
+CUST0276,Saanvi,Pillai,saanvi.pillai@gmail.com,9914893975,Female,1991-10-04,2023-08-01,Chandigarh,Punjab,359737,Active,Credit Card
+CUST0277,Deepak,Patel,deepak.patel@gmail.com,9348541776,Male,2004-08-18,2025-02-01,Guwahati,Assam,199027,Active,Net Banking
+CUST0278,Ajay,Singh,ajay.singh@mail.com,9709692870,Male,1963-08-03,2023-09-25,Kolkata,West Bengal,383669,Inactive,Cash on Delivery
+CUST0279,Swati,Bose,swati.bose@outlook.com,9350838144,Female,1964-09-13,2023-10-06,Delhi,Delhi,272960,Active,Cash on Delivery
+CUST0280,Swati,Das,swati.das@gmail.com,9675444604,Female,1990-02-22,2025-07-14,Lucknow,Uttar Pradesh,387881,Inactive,Credit Card
+CUST0281,Suresh,Taylor,suresh.taylor@gmail.com,9330876810,Male,1987-05-30,2023-07-06,Surat,Gujarat,525493,Active,Wallet
+CUST0282,Shreya,Shah,shreya.shah@gmail.com,9534212844,Female,1998-07-27,2026-01-31,Delhi,Delhi,594488,Active,Debit Card
+CUST0283,Aarav,Kumar,aarav.kumar@yahoo.com,9240354421,Male,1975-10-11,2025-02-01,Patna,Bihar,198122,Active,UPI
+CUST0284,Vihaan,Singh,vihaan.singh@yahoo.com,9793623149,Male,1997-10-13,2023-07-08,Delhi,Delhi,154771,Inactive,Credit Card
+CUST0285,Matthew,Sen,matthew.sen@hotmail.com,9632711663,Male,1960-08-24,2025-05-23,Surat,Gujarat,335147,Inactive,UPI
+CUST0286,Deepika,Iyer,deepika.iyer@gmail.com,9759391912,Female,1980-01-19,2024-08-27,Udaipur,Rajasthan,687439,Active,Credit Card
+CUST0287,Kavita,Nair,kavita.nair@hotmail.com,9314166184,Female,2005-03-04,2026-07-15,Vadodara,Gujarat,130479,Inactive,Wallet
+CUST0288,Emma,Jones,emma.jones@hotmail.com,9469403820,Female,2003-01-27,2025-03-06,Mysore,Karnataka,137330,Active,Debit Card
+CUST0289,Deepak,Kumar,deepak.kumar@hotmail.com,9668473595,Male,1990-01-25,2024-04-21,Delhi,Delhi,369897,Active,UPI
+CUST0290,Varun,Davis,varun.davis@hotmail.com,9480968571,Male,1973-08-02,2024-04-29,Ahmedabad,Gujarat,883960,Active,Net Banking
+CUST0291,Sanjay,Davis,sanjay.davis@mail.com,9252581172,Male,1974-11-21,2026-01-15,Mysore,Karnataka,624260,Active,Credit Card
+CUST0292,Joseph,Malhotra,joseph.malhotra@gmail.com,9665269791,Male,2000-11-18,2024-11-10,Hyderabad,Telangana,246829,Active,Debit Card
+CUST0293,Aadhya,Verma,aadhya.verma@yahoo.com,9729866807,Female,1970-09-16,2025-12-13,Nagpur,Maharashtra,501739,Active,Wallet
+CUST0294,Amelia,Reddy,amelia.reddy@outlook.com,9424017866,Female,1986-12-11,2023-11-19,Vadodara,Gujarat,780319,Inactive,Wallet
+CUST0295,Pooja,Miller,pooja.miller@mail.com,9945026004,Female,1990-01-05,2026-04-21,Jaipur,Rajasthan,431728,Active,UPI
+CUST0296,Rahul,Sharma,rahul.sharma@mail.com,9520478827,Male,1960-11-27,2026-05-18,Raipur,Chhattisgarh,751080,Active,Net Banking
+CUST0297,Michael,Iyer,michael.iyer@outlook.com,9900306310,Male,1964-12-24,2024-12-11,Mysore,Karnataka,777091,Inactive,Credit Card
+CUST0298,Deepika,Sharma,deepika.sharma@outlook.com,9325146786,Female,1980-05-21,2024-12-18,Vadodara,Gujarat,223283,Active,Credit Card
+CUST0299,Deepika,Das,deepika.das@yahoo.com,9544549689,Female,2002-03-28,2024-12-20,Jaipur,Rajasthan,216356,Active,Net Banking
+CUST0300,Karan,Bose,karan.bose@gmail.com,9958128631,Male,1960-12-30,2023-02-11,Coimbatore,Tamil Nadu,219813,Active,Debit Card
+CUST0301,Neha,Singh,neha.singh2@gmail.com,9462871672,Female,2001-04-23,2025-06-02,Mysore,Karnataka,746819,Inactive,Debit Card
+CUST0302,Sai,Pillai,sai.pillai@yahoo.com,9303994042,Male,1994-09-20,2026-01-11,Kochi,Kerala,405199,Active,Credit Card
+CUST0303,Ajay,Davis,ajay.davis@mail.com,9627151698,Male,1971-10-12,2025-01-08,Udaipur,Rajasthan,201885,Active,Wallet
+CUST0304,Sneha,Reddy,sneha.reddy@gmail.com,9322214072,Female,1973-04-29,2024-08-20,Kanpur,Uttar Pradesh,231120,Active,Cash on Delivery
+CUST0305,Olivia,Agarwal,olivia.agarwal@gmail.com,9789198776,Female,2006-10-25,2024-01-14,Ranchi,Jharkhand,509975,Active,Cash on Delivery
+CUST0306,Manish,Bose,manish.bose@hotmail.com,9382824466,Male,1978-04-19,2026-03-01,Bangalore,Karnataka,898776,Active,Credit Card
+CUST0307,Sanjay,Jones,sanjay.jones2@mail.com,9344289964,Male,1963-06-22,2025-12-06,Ludhiana,Punjab,830443,Inactive,Cash on Delivery
+CUST0308,James,Trivedi,james.trivedi@gmail.com,9523917958,Male,1961-02-11,2026-03-15,Vadodara,Gujarat,709246,Active,Net Banking
+CUST0309,Krishna,Bose,krishna.bose@yahoo.com,9279491823,Male,1977-01-04,2023-09-16,Udaipur,Rajasthan,192176,Inactive,Cash on Delivery
+CUST0310,Rohan,Taylor,rohan.taylor@outlook.com,9443328397,Male,1964-01-05,2025-03-05,Jaipur,Rajasthan,688871,Active,UPI
+CUST0311,Saanvi,Moore,saanvi.moore@mail.com,9661096687,Female,1995-08-24,2025-04-28,Bangalore,Karnataka,704117,Active,Credit Card
+CUST0312,Matthew,Reddy,matthew.reddy@outlook.com,9675132064,Male,1988-11-06,2024-06-24,Patna,Bihar,619173,Active,Cash on Delivery
+CUST0313,Rahul,Bansal,rahul.bansal@hotmail.com,9254460628,Male,1994-01-15,2025-03-21,Thiruvananthapuram,Kerala,359120,Active,Cash on Delivery
+CUST0314,Sunita,Verma,sunita.verma@outlook.com,9977661452,Female,1985-03-10,2024-07-28,Amritsar,Punjab,840001,Active,Debit Card
+CUST0315,Suresh,Bose,suresh.bose@outlook.com,9389287503,Male,1995-05-23,2023-07-02,Lucknow,Uttar Pradesh,331660,Inactive,Cash on Delivery
+CUST0316,Sophia,Chatterjee,sophia.chatterjee@gmail.com,9653266624,Female,1972-04-06,2024-09-29,Jaipur,Rajasthan,252240,Active,Net Banking
+CUST0317,Rahul,Joshi,rahul.joshi@yahoo.com,9998696871,Male,1963-03-04,2023-03-09,Pune,Maharashtra,487881,Active,UPI
+CUST0318,Sakshi,Williams,sakshi.williams@hotmail.com,9782266083,Female,1969-02-11,2024-05-10,Kanpur,Uttar Pradesh,732900,Active,Cash on Delivery
+CUST0319,Anjali,Mehta,anjali.mehta@outlook.com,9904190892,Female,1966-02-09,2023-02-26,Pune,Maharashtra,280821,Inactive,Debit Card
+CUST0320,Varun,Chopra,varun.chopra@outlook.com,9799636574,Male,1994-09-27,2023-02-11,Kanpur,Uttar Pradesh,248742,Active,Net Banking
+CUST0321,Varun,Agarwal,varun.agarwal@mail.com,9964454042,Male,1985-05-28,2024-07-17,Ranchi,Jharkhand,504764,Inactive,Cash on Delivery
+CUST0322,Priya,Ghosh,priya.ghosh@outlook.com,9827133833,Female,2004-09-16,2025-03-24,Delhi,Delhi,117705,Active,Wallet
+CUST0323,Mia,Taylor,mia.taylor@mail.com,9403521991,Female,1984-10-11,2025-09-13,Ahmedabad,Gujarat,399914,Active,UPI
+CUST0324,Nisha,Joshi,nisha.joshi@yahoo.com,9655439758,Female,1979-07-24,2026-05-13,Kochi,Kerala,445110,Active,Wallet
+CUST0325,Michael,Saxena,michael.saxena@outlook.com,9549431487,Male,1994-04-19,2023-03-14,Thiruvananthapuram,Kerala,709830,Active,UPI
+CUST0326,Robert,Smith,robert.smith@outlook.com,9644725181,Male,1984-12-06,2026-02-17,Kolkata,West Bengal,212345,Active,Wallet
+CUST0327,Mia,Shah,mia.shah@outlook.com,9802693852,Female,1966-01-05,2024-12-28,Guwahati,Assam,432003,Active,UPI
+CUST0328,Shreya,Wilson,shreya.wilson@outlook.com,9597959181,Female,1968-07-26,2023-04-20,Bhopal,Madhya Pradesh,718503,Inactive,Credit Card
+CUST0329,Sneha,Williams,sneha.williams@gmail.com,9830893658,Female,1992-03-29,2024-09-03,Pune,Maharashtra,268103,Active,Debit Card
+CUST0330,Pallavi,Davis,pallavi.davis@hotmail.com,9253785761,Female,1986-05-21,2023-06-15,Ahmedabad,Gujarat,771686,Inactive,UPI
+CUST0331,Aarav,Bose,aarav.bose@outlook.com,9324822604,Male,1973-02-15,2023-11-21,Vadodara,Gujarat,202319,Active,Cash on Delivery
+CUST0332,Rekha,Sen,rekha.sen@hotmail.com,9511582876,Female,1958-06-02,2025-12-29,Guwahati,Assam,501226,Inactive,UPI
+CUST0333,Vihaan,Sharma,vihaan.sharma@yahoo.com,9342950952,Male,1988-11-22,2023-09-22,Jaipur,Rajasthan,637787,Active,Debit Card
+CUST0334,Aditya,Trivedi,aditya.trivedi@outlook.com,9589547144,Male,2004-09-04,2025-12-09,Udaipur,Rajasthan,830142,Inactive,UPI
+CUST0335,Anjali,Joshi,anjali.joshi@yahoo.com,9971887294,Female,1994-03-11,2024-04-12,Guwahati,Assam,247580,Active,Credit Card
+CUST0336,Krishna,Chatterjee,krishna.chatterjee@gmail.com,9502859804,Male,1980-12-12,2026-06-30,Indore,Madhya Pradesh,160291,Active,Wallet
+CUST0337,Vivaan,Rao,vivaan.rao@hotmail.com,9577078832,Male,1992-02-12,2026-01-25,Kanpur,Uttar Pradesh,845963,Active,Wallet
+CUST0338,Suresh,Das,suresh.das@gmail.com,9811335671,Male,2004-09-05,2026-06-29,Thiruvananthapuram,Kerala,253827,Active,Credit Card
+CUST0339,Ravi,Rao,ravi.rao@gmail.com,9634443249,Male,1975-10-28,2024-02-14,Visakhapatnam,Andhra Pradesh,658559,Inactive,UPI
+CUST0340,Meera,Mehta,meera.mehta@gmail.com,9688559516,Female,2002-07-13,2025-09-11,Chennai,Tamil Nadu,112872,Active,Credit Card
+CUST0341,Matthew,Johnson,matthew.johnson@yahoo.com,9196725534,Male,2003-11-28,2023-07-27,Patna,Bihar,352390,Active,UPI
+CUST0342,Sakshi,Kumar,sakshi.kumar@gmail.com,9973143678,Female,1973-09-03,2024-08-18,Vadodara,Gujarat,819642,Active,Wallet
+CUST0343,Sai,Gupta,sai.gupta@gmail.com,9248599901,Male,1973-04-19,2025-01-02,Indore,Madhya Pradesh,391343,Inactive,Credit Card
+CUST0344,Radhika,Shah,radhika.shah@gmail.com,9530331581,Female,1993-11-28,2024-07-10,Thiruvananthapuram,Kerala,611477,Active,Wallet
+CUST0345,Krishna,Nair,krishna.nair@gmail.com,9271149511,Male,1967-04-22,2026-04-24,Vadodara,Gujarat,706581,Active,Debit Card
+CUST0346,Anjali,Moore,anjali.moore@gmail.com,9834937767,Female,1969-09-21,2025-09-26,Ranchi,Jharkhand,541263,Active,Credit Card
+CUST0347,Swati,Sharma,swati.sharma@mail.com,9924127682,Female,1978-02-04,2025-11-29,Thiruvananthapuram,Kerala,844612,Active,Cash on Delivery
+CUST0348,James,Menon,james.menon@hotmail.com,9259616499,Male,1962-11-24,2023-11-18,Amritsar,Punjab,602086,Inactive,Debit Card
+CUST0349,Michael,Desai,michael.desai@yahoo.com,9455295629,Male,1982-12-15,2025-11-04,Ludhiana,Punjab,784568,Active,Debit Card
+CUST0350,Pankaj,Bose,pankaj.bose@mail.com,9581142194,Male,1965-11-24,2025-07-04,Delhi,Delhi,631534,Active,Credit Card
+CUST0351,Ajay,Das,ajay.das@gmail.com,9698214865,Male,1958-01-06,2026-05-22,Patna,Bihar,429395,Inactive,Net Banking
+CUST0352,Pankaj,Pillai,pankaj.pillai@outlook.com,9986170931,Male,1962-11-14,2025-07-19,Ludhiana,Punjab,759864,Active,Wallet
+CUST0353,Deepika,Rao,deepika.rao@gmail.com,9915313588,Female,1977-11-23,2024-11-30,Visakhapatnam,Andhra Pradesh,774442,Inactive,UPI
+CUST0354,Anika,Gupta,anika.gupta@yahoo.com,9628734252,Female,1970-08-08,2023-08-08,Indore,Madhya Pradesh,315439,Active,Cash on Delivery
+CUST0355,Pankaj,Joshi,pankaj.joshi@outlook.com,9215712585,Male,1995-03-09,2026-07-20,Delhi,Delhi,582389,Active,Net Banking
+CUST0356,Michael,Sharma,michael.sharma@mail.com,9890503688,Male,1962-05-11,2025-06-05,Kanpur,Uttar Pradesh,643026,Active,Debit Card
+CUST0357,Ishaan,Reddy,ishaan.reddy2@mail.com,9750860170,Male,1986-11-16,2025-02-26,Indore,Madhya Pradesh,836156,Active,UPI
+CUST0358,Radhika,Saxena,radhika.saxena@hotmail.com,9964144020,Female,1969-12-19,2025-04-25,Thiruvananthapuram,Kerala,894783,Active,Wallet
+CUST0359,Mia,Chopra,mia.chopra@yahoo.com,9325177291,Female,1984-01-26,2023-09-29,Mysore,Karnataka,638371,Active,Wallet
+CUST0360,Ira,Menon,ira.menon@mail.com,9615793279,Female,1995-06-15,2024-08-08,Vadodara,Gujarat,123391,Active,Credit Card
+CUST0361,Isha,Kumar,isha.kumar@gmail.com,9314643586,Female,1981-12-14,2024-08-09,Bangalore,Karnataka,175047,Active,UPI
+CUST0362,Robert,Gupta,robert.gupta@outlook.com,9974053994,Male,1998-08-09,2026-06-15,Amritsar,Punjab,345204,Active,Net Banking
+CUST0363,Divya,Williams,divya.williams@outlook.com,9844034445,Female,1962-03-20,2025-03-04,Vadodara,Gujarat,828431,Active,Net Banking
+CUST0364,Aarav,Agarwal,aarav.agarwal@yahoo.com,9766323040,Male,1997-10-01,2026-07-21,Surat,Gujarat,726967,Active,Net Banking
+CUST0365,Aman,Saxena,aman.saxena@hotmail.com,9290509600,Male,1964-09-06,2023-12-22,Delhi,Delhi,505522,Active,UPI
+CUST0366,Riya,Mehta,riya.mehta@mail.com,9373821508,Female,1958-07-04,2025-08-13,Pune,Maharashtra,271170,Inactive,Net Banking
+CUST0367,Ryan,Trivedi,ryan.trivedi@hotmail.com,9948157453,Male,1990-02-15,2024-10-12,Chennai,Tamil Nadu,302801,Active,Net Banking
+CUST0368,Vishal,Jones,vishal.jones@mail.com,9533165776,Male,1966-04-01,2024-03-29,Kochi,Kerala,458006,Active,UPI
+CUST0369,Ryan,Brown,ryan.brown@hotmail.com,9702728525,Male,1958-10-16,2024-12-09,Chennai,Tamil Nadu,783463,Active,Net Banking
+CUST0370,Aditya,Desai,aditya.desai@hotmail.com,9954920307,Male,1968-03-04,2024-06-09,Guwahati,Assam,406568,Active,Net Banking
+CUST0371,Ava,Williams,ava.williams@hotmail.com,9622702576,Female,1961-12-07,2024-01-30,Chandigarh,Punjab,196346,Inactive,Debit Card
+CUST0372,Reyansh,Chopra,reyansh.chopra@yahoo.com,9835948208,Male,1996-01-22,2024-02-26,Visakhapatnam,Andhra Pradesh,846880,Inactive,Wallet
+CUST0373,Kiara,Iyer,kiara.iyer@gmail.com,9593089342,Female,1987-10-05,2023-06-29,Pune,Maharashtra,296639,Active,Net Banking
+CUST0374,Matthew,Malhotra,matthew.malhotra@outlook.com,9537692362,Male,1992-10-24,2026-07-14,Udaipur,Rajasthan,441774,Active,Wallet
+CUST0375,Robert,Sharma,robert.sharma@mail.com,9167900845,Male,1962-01-31,2025-01-02,Delhi,Delhi,413916,Active,UPI
+CUST0376,Ravi,Bose,ravi.bose2@hotmail.com,9982747173,Male,1960-10-06,2023-11-17,Chennai,Tamil Nadu,253007,Active,Net Banking
+CUST0377,Isha,Trivedi,isha.trivedi@outlook.com,9111972445,Female,1970-09-07,2023-03-27,Bhopal,Madhya Pradesh,735638,Active,Net Banking
+CUST0378,Suresh,Chopra,suresh.chopra@outlook.com,9327350811,Male,1995-01-08,2025-11-15,Mysore,Karnataka,302931,Active,UPI
+CUST0379,Krishna,Shah,krishna.shah@mail.com,9158398995,Male,1999-05-20,2026-01-30,Kolkata,West Bengal,814314,Active,Credit Card
+CUST0380,Andrew,Johnson,andrew.johnson@outlook.com,9483474399,Male,1969-07-03,2024-04-25,Kolkata,West Bengal,759610,Active,Debit Card
+CUST0381,Olivia,Bose,olivia.bose@outlook.com,9761792646,Female,1985-06-04,2023-11-09,Bhopal,Madhya Pradesh,492200,Active,Cash on Delivery
+CUST0382,Aarav,Desai,aarav.desai@yahoo.com,9943596127,Male,1977-11-15,2025-06-12,Visakhapatnam,Andhra Pradesh,486949,Active,Wallet
+CUST0383,Emma,Ghosh,emma.ghosh@hotmail.com,9485195859,Female,1985-05-28,2026-02-03,Mysore,Karnataka,786910,Active,UPI
+CUST0384,Robert,Joshi,robert.joshi@outlook.com,9887637532,Male,1964-11-10,2023-02-08,Patna,Bihar,142710,Active,Net Banking
+CUST0385,Amelia,Chopra,amelia.chopra@gmail.com,9692269551,Female,1981-05-19,2026-01-10,Patna,Bihar,265853,Active,Debit Card
+CUST0386,Riya,Ghosh,riya.ghosh@mail.com,9648050705,Female,1966-02-15,2025-01-15,Mumbai,Maharashtra,804869,Active,Net Banking
+CUST0387,David,Nair,david.nair@hotmail.com,9270963770,Male,1974-01-27,2026-03-04,Guwahati,Assam,877563,Active,UPI
+CUST0388,Varun,Johnson,varun.johnson@yahoo.com,9167496657,Male,1981-09-19,2024-04-24,Kochi,Kerala,326819,Active,UPI
+CUST0389,Emma,Ghosh,emma.ghosh@gmail.com,9142847338,Female,1987-01-28,2025-12-03,Visakhapatnam,Andhra Pradesh,396781,Active,UPI
+CUST0390,Anil,Banerjee,anil.banerjee@outlook.com,9731015334,Male,1964-12-25,2024-05-30,Raipur,Chhattisgarh,343727,Active,UPI
+CUST0391,Olivia,Smith,olivia.smith@mail.com,9107084208,Female,2003-01-09,2025-06-19,Chennai,Tamil Nadu,190833,Active,UPI
+CUST0392,Rohan,Shah,rohan.shah@yahoo.com,9488933925,Male,1968-08-13,2025-04-29,Guwahati,Assam,228845,Active,Cash on Delivery
+CUST0393,Priya,Wilson,priya.wilson@yahoo.com,9794989306,Female,1994-11-12,2024-05-14,Bangalore,Karnataka,711345,Active,Debit Card
+CUST0394,Matthew,Iyer,matthew.iyer@gmail.com,9278607682,Male,1981-03-03,2025-11-24,Indore,Madhya Pradesh,700983,Active,Wallet
+CUST0395,Myra,Chopra,myra.chopra@hotmail.com,9751252216,Female,2000-04-17,2023-12-16,Visakhapatnam,Andhra Pradesh,540721,Active,Net Banking
+CUST0396,Ryan,Williams,ryan.williams@outlook.com,9280089806,Male,1988-09-28,2026-05-06,Nagpur,Maharashtra,350978,Active,Debit Card
+CUST0397,Vihaan,Joshi,vihaan.joshi@mail.com,9641551915,Male,1995-08-30,2026-05-25,Mysore,Karnataka,608986,Inactive,Net Banking
+CUST0398,Robert,Williams,robert.williams@gmail.com,9200061963,Male,2001-04-07,2026-05-20,Visakhapatnam,Andhra Pradesh,111259,Inactive,Wallet
+CUST0399,Sophia,Das,sophia.das@outlook.com,9146641502,Female,2005-07-14,2024-04-14,Vadodara,Gujarat,509756,Active,Wallet
+CUST0400,Gaurav,Nair,gaurav.nair@outlook.com,9612326496,Male,1978-11-10,2024-08-03,Ranchi,Jharkhand,680144,Active,Debit Card
+CUST0401,Aarav,Davis,aarav.davis@mail.com,9226517500,Male,2004-08-18,2025-02-07,Hyderabad,Telangana,831176,Active,Cash on Delivery
+CUST0402,Anika,Iyer,anika.iyer@hotmail.com,9799624335,Female,1980-10-03,2026-01-02,Bhopal,Madhya Pradesh,493406,Active,Wallet
+CUST0403,Priya,Das,priya.das@mail.com,9941586401,Female,2001-04-14,2025-01-28,Ludhiana,Punjab,617260,Active,UPI
+CUST0404,Rekha,Nair,rekha.nair@gmail.com,9902959376,Female,1978-08-13,2023-11-28,Hyderabad,Telangana,643037,Active,UPI
+CUST0405,Karan,Banerjee,karan.banerjee@gmail.com,9963685029,Male,1966-03-04,2025-08-23,Udaipur,Rajasthan,202423,Active,Debit Card
+CUST0406,Myra,Taylor,myra.taylor@gmail.com,9877920274,Female,1992-06-24,2026-06-11,Chandigarh,Punjab,410385,Active,Net Banking
+CUST0407,Rahul,Johnson,rahul.johnson@hotmail.com,9111500207,Male,1976-02-05,2025-11-27,Hyderabad,Telangana,145242,Active,Net Banking
+CUST0408,Ryan,Mehta,ryan.mehta@gmail.com,9486267885,Male,1979-06-19,2023-01-01,Nagpur,Maharashtra,399341,Active,UPI
+CUST0409,Rekha,Wilson,rekha.wilson@yahoo.com,9655921993,Female,1959-05-19,2023-07-04,Kolkata,West Bengal,871412,Active,Net Banking
+CUST0410,Anjali,Bansal,anjali.bansal@yahoo.com,9751077748,Female,1975-06-15,2025-04-07,Mumbai,Maharashtra,383792,Active,Net Banking
+CUST0411,Daniel,Singh,daniel.singh@mail.com,9415950492,Male,1988-07-02,2025-11-17,Ranchi,Jharkhand,674033,Active,Net Banking
+CUST0412,Deepika,Banerjee,deepika.banerjee@mail.com,9619293644,Female,1979-10-29,2025-07-28,Ranchi,Jharkhand,725333,Inactive,Cash on Delivery
+CUST0413,Manish,Singh,manish.singh@hotmail.com,9780389168,Male,1977-10-09,2024-10-08,Surat,Gujarat,651594,Active,Wallet
+CUST0414,Divya,Saxena,divya.saxena@gmail.com,9528348505,Female,1988-09-06,2026-02-09,Kanpur,Uttar Pradesh,439120,Active,Net Banking
+CUST0415,Pooja,Joshi,pooja.joshi@hotmail.com,9891468251,Female,1975-11-30,2024-05-10,Hyderabad,Telangana,350342,Active,Debit Card
+CUST0416,Isha,Reddy,isha.reddy@gmail.com,9184275390,Female,2002-03-14,2023-01-14,Pune,Maharashtra,615720,Active,UPI
+CUST0417,Charlotte,Bansal,charlotte.bansal@hotmail.com,9296357164,Female,2003-11-09,2025-03-25,Nashik,Maharashtra,714678,Active,Net Banking
+CUST0418,Emma,Jones,emma.jones@gmail.com,9639528648,Female,1989-02-26,2023-12-24,Delhi,Delhi,842163,Active,UPI
+CUST0419,Aarav,Chopra,aarav.chopra@hotmail.com,9723852830,Male,1967-01-15,2025-01-10,Amritsar,Punjab,382316,Active,UPI
+CUST0420,Deepak,Smith,deepak.smith@mail.com,9468397022,Male,1990-10-30,2025-10-18,Hyderabad,Telangana,549451,Active,UPI
+CUST0421,Rekha,Bansal,rekha.bansal@hotmail.com,9293154584,Female,1969-10-07,2024-04-13,Guwahati,Assam,393063,Active,Net Banking
+CUST0422,Kavita,Joshi,kavita.joshi@yahoo.com,9959033676,Female,1971-06-02,2023-01-20,Udaipur,Rajasthan,633867,Active,Wallet
+CUST0423,Olivia,Trivedi,olivia.trivedi@outlook.com,9703591560,Female,1962-04-13,2023-07-22,Pune,Maharashtra,335934,Active,Cash on Delivery
+CUST0424,Naveen,Pillai,naveen.pillai@outlook.com,9487580021,Male,1990-04-29,2026-02-15,Surat,Gujarat,130799,Active,UPI
+CUST0425,Matthew,Davis,matthew.davis@mail.com,9287409640,Male,1983-07-15,2024-10-27,Kanpur,Uttar Pradesh,882304,Active,Credit Card
+CUST0426,Grace,Saxena,grace.saxena@hotmail.com,9778295798,Female,1970-12-30,2024-11-21,Patna,Bihar,752054,Active,Credit Card
+CUST0427,Karan,Pillai,karan.pillai@yahoo.com,9436598800,Male,1986-06-06,2024-08-19,Indore,Madhya Pradesh,785959,Active,Cash on Delivery
+CUST0428,Amelia,Brown,amelia.brown@hotmail.com,9544517369,Female,1973-01-04,2023-02-17,Guwahati,Assam,356025,Active,Wallet
+CUST0429,Nikhil,Mehta,nikhil.mehta@hotmail.com,9210605413,Male,1966-07-29,2025-08-27,Pune,Maharashtra,137646,Active,Net Banking
+CUST0430,Sai,Agarwal,sai.agarwal@mail.com,9266724578,Male,1965-07-25,2025-03-09,Chennai,Tamil Nadu,369415,Active,Cash on Delivery
+CUST0431,Ishaan,Brown,ishaan.brown@yahoo.com,9130678197,Male,1961-02-25,2024-10-28,Lucknow,Uttar Pradesh,676844,Inactive,Net Banking
+CUST0432,Riya,Jones,riya.jones@yahoo.com,9734399876,Female,1998-12-17,2026-07-26,Udaipur,Rajasthan,658888,Active,Net Banking
+CUST0433,Anjali,Smith,anjali.smith@mail.com,9343877311,Female,1966-01-13,2024-09-22,Udaipur,Rajasthan,382428,Active,Credit Card
+CUST0434,John,Nair,john.nair@outlook.com,9407908620,Male,2000-02-04,2023-01-18,Nashik,Maharashtra,610242,Active,Cash on Delivery
+CUST0435,Emily,Malhotra,emily.malhotra@gmail.com,9688638365,Female,1991-07-10,2025-04-23,Udaipur,Rajasthan,523928,Active,Wallet
+CUST0436,Kavita,Malhotra,kavita.malhotra@outlook.com,9185050803,Female,1995-11-18,2024-05-05,Nashik,Maharashtra,753004,Active,Wallet
+CUST0437,Meera,Jones,meera.jones@outlook.com,9543352165,Female,1974-11-13,2024-01-09,Kolkata,West Bengal,225718,Active,Net Banking
+CUST0438,Aditi,Moore,aditi.moore@hotmail.com,9301637382,Female,1986-10-07,2023-11-08,Ludhiana,Punjab,133206,Active,Credit Card
+CUST0439,Aditi,Nair,aditi.nair@hotmail.com,9880725278,Female,1958-09-26,2023-07-04,Mumbai,Maharashtra,627556,Active,Cash on Delivery
+CUST0440,Olivia,Chatterjee,olivia.chatterjee@hotmail.com,9848328041,Female,1960-11-05,2023-06-14,Pune,Maharashtra,389450,Active,Credit Card
+CUST0441,Pooja,Joshi,pooja.joshi@outlook.com,9977516280,Female,1992-03-26,2023-09-07,Jaipur,Rajasthan,574479,Active,Credit Card
+CUST0442,Pankaj,Reddy,pankaj.reddy@mail.com,9815120513,Male,1976-09-13,2025-03-07,Raipur,Chhattisgarh,448757,Active,Wallet
+CUST0443,Daniel,Brown,daniel.brown@gmail.com,9371992483,Male,2001-03-04,2024-09-03,Surat,Gujarat,164618,Inactive,Debit Card
+CUST0444,Siddharth,Sen,siddharth.sen@outlook.com,9116178827,Male,1973-01-06,2026-04-12,Jaipur,Rajasthan,364898,Active,Credit Card
+CUST0445,Emily,Iyer,emily.iyer@outlook.com,9927636977,Female,1966-01-11,2023-11-19,Nagpur,Maharashtra,829266,Active,Wallet
+CUST0446,Vivaan,Menon,vivaan.menon@yahoo.com,9853045356,Male,2006-02-13,2023-09-15,Chennai,Tamil Nadu,442126,Inactive,Wallet
+CUST0447,Deepika,Joshi,deepika.joshi@gmail.com,9840076530,Female,1991-11-22,2023-10-03,Ranchi,Jharkhand,151407,Active,Cash on Delivery
+CUST0448,Isabella,Johnson,isabella.johnson@yahoo.com,9708491359,Female,1974-09-29,2024-12-13,Guwahati,Assam,601148,Active,Net Banking
+CUST0449,Reyansh,Brown,reyansh.brown@yahoo.com,9582522615,Male,1984-07-11,2026-01-14,Lucknow,Uttar Pradesh,110755,Active,Net Banking
+CUST0450,Pooja,Verma,pooja.verma@mail.com,9490922764,Female,1979-06-04,2023-05-10,Ludhiana,Punjab,516314,Active,Wallet
+CUST0451,Mia,Iyer,mia.iyer@mail.com,9404007541,Female,1986-12-10,2024-10-21,Delhi,Delhi,658616,Active,Credit Card
+CUST0452,Rahul,Gupta,rahul.gupta@yahoo.com,9214949614,Male,2001-07-18,2023-07-22,Bhopal,Madhya Pradesh,782926,Active,Wallet
+CUST0453,Sophia,Moore,sophia.moore@mail.com,9374811907,Female,1962-05-28,2024-03-28,Thiruvananthapuram,Kerala,184317,Active,Debit Card
+CUST0454,Myra,Ghosh,myra.ghosh@gmail.com,9487541399,Female,1995-04-26,2023-04-30,Coimbatore,Tamil Nadu,664719,Active,Credit Card
+CUST0455,Kiara,Chopra,kiara.chopra2@gmail.com,9208689641,Female,1978-09-22,2025-02-28,Hyderabad,Telangana,661753,Active,Net Banking
+CUST0456,Daniel,Miller,daniel.miller@hotmail.com,9901127771,Male,1967-06-20,2026-03-26,Kochi,Kerala,591004,Active,Cash on Delivery
+CUST0457,Karan,Shah,karan.shah@mail.com,9531168733,Male,2003-04-12,2023-11-20,Indore,Madhya Pradesh,574532,Inactive,UPI
+CUST0458,Sunita,Das,sunita.das@hotmail.com,9987077148,Female,1987-01-07,2024-05-07,Ludhiana,Punjab,334320,Active,Net Banking
+CUST0459,Sunita,Bose,sunita.bose@hotmail.com,9526372748,Female,1958-01-07,2024-08-05,Mumbai,Maharashtra,652753,Active,UPI
+CUST0460,Suresh,Malhotra,suresh.malhotra@yahoo.com,9438126323,Male,1959-12-13,2026-02-07,Ludhiana,Punjab,708389,Inactive,Debit Card
+CUST0461,Aditya,Ghosh,aditya.ghosh@outlook.com,9267618731,Male,1970-06-02,2025-01-21,Chennai,Tamil Nadu,354313,Active,UPI
+CUST0462,Matthew,Mukherjee,matthew.mukherjee@mail.com,9333471497,Male,1964-12-04,2025-09-15,Kanpur,Uttar Pradesh,833093,Active,Credit Card
+CUST0463,Diya,Davis,diya.davis@hotmail.com,9184264458,Female,1963-01-07,2024-12-13,Udaipur,Rajasthan,236396,Inactive,Debit Card
+CUST0464,Anil,Kumar,anil.kumar@outlook.com,9663052341,Male,1961-09-11,2026-01-10,Bangalore,Karnataka,452708,Active,Debit Card
+CUST0465,Vivaan,Mukherjee,vivaan.mukherjee@hotmail.com,9908356009,Male,2003-04-13,2024-03-30,Kolkata,West Bengal,523478,Active,UPI
+CUST0466,James,Davis,james.davis@gmail.com,9688574163,Male,1993-10-24,2023-06-24,Chandigarh,Punjab,565597,Active,Debit Card
+CUST0467,James,Miller,james.miller@yahoo.com,9623836867,Male,1993-06-19,2026-03-16,Ludhiana,Punjab,755920,Inactive,Net Banking
+CUST0468,Siddharth,Singh,siddharth.singh@outlook.com,9934052476,Male,1996-08-01,2026-03-25,Delhi,Delhi,814379,Active,UPI
+CUST0469,Sneha,Desai,sneha.desai@outlook.com,9737670731,Female,1960-03-04,2023-12-13,Indore,Madhya Pradesh,573691,Active,Cash on Delivery
+CUST0470,Varun,Joshi,varun.joshi@outlook.com,9267494290,Male,1965-09-12,2023-04-22,Indore,Madhya Pradesh,264851,Inactive,UPI
+CUST0471,Vikram,Rao,vikram.rao@outlook.com,9583249931,Male,2000-04-09,2024-11-10,Guwahati,Assam,674140,Active,Net Banking
+CUST0472,Mia,Smith,mia.smith@mail.com,9883749478,Female,1970-09-06,2025-02-10,Ranchi,Jharkhand,805760,Active,UPI
+CUST0473,Vivaan,Saxena,vivaan.saxena@yahoo.com,9947384695,Male,1982-05-04,2025-08-10,Mumbai,Maharashtra,179833,Active,UPI
+CUST0474,Anika,Verma,anika.verma@outlook.com,9797299908,Female,1992-09-04,2025-02-18,Thiruvananthapuram,Kerala,214443,Inactive,Cash on Delivery
+CUST0475,Rahul,Joshi,rahul.joshi@mail.com,9591759000,Male,1959-12-06,2024-05-21,Kolkata,West Bengal,459774,Active,Wallet
+CUST0476,Vihaan,Menon,vihaan.menon@outlook.com,9481584364,Male,1985-02-14,2025-10-23,Vadodara,Gujarat,175022,Active,Cash on Delivery
+CUST0477,Daniel,Bansal,daniel.bansal@yahoo.com,9262895422,Male,1988-08-30,2023-10-09,Guwahati,Assam,510774,Active,Wallet
+CUST0478,Vishal,Kapoor,vishal.kapoor@mail.com,9264013159,Male,1996-04-05,2026-05-24,Lucknow,Uttar Pradesh,678574,Active,Wallet
+CUST0479,Andrew,Jones,andrew.jones@yahoo.com,9248294102,Male,1985-09-21,2023-10-04,Raipur,Chhattisgarh,262204,Active,Net Banking
+CUST0480,Amit,Singh,amit.singh@mail.com,9672263097,Male,1968-08-15,2024-10-12,Guwahati,Assam,140916,Active,Cash on Delivery
+CUST0481,Nisha,Bose,nisha.bose@outlook.com,9263162642,Female,1974-11-11,2023-09-27,Mumbai,Maharashtra,751710,Active,Net Banking
+CUST0482,Joseph,Malhotra,joseph.malhotra@yahoo.com,9838066391,Male,1960-05-04,2023-06-12,Bangalore,Karnataka,636726,Active,Cash on Delivery
+CUST0483,Pooja,Banerjee,pooja.banerjee@hotmail.com,9608789262,Female,1970-05-04,2024-01-31,Pune,Maharashtra,538437,Active,Credit Card
+CUST0484,Pallavi,Malhotra,pallavi.malhotra@yahoo.com,9913656416,Female,1976-05-09,2023-12-29,Amritsar,Punjab,757034,Active,UPI
+CUST0485,Divya,Sen,divya.sen@hotmail.com,9933454210,Female,1961-10-02,2025-02-18,Jaipur,Rajasthan,751210,Inactive,Net Banking
+CUST0486,John,Reddy,john.reddy@hotmail.com,9590593090,Male,1961-10-21,2025-11-28,Jaipur,Rajasthan,880882,Active,Cash on Delivery
+CUST0487,Aman,Saxena,aman.saxena2@hotmail.com,9427012523,Male,1983-08-26,2023-12-07,Kolkata,West Bengal,752918,Inactive,Wallet
+CUST0488,Pankaj,Bose,pankaj.bose@gmail.com,9875936087,Male,2002-12-01,2024-01-04,Ranchi,Jharkhand,839929,Active,Cash on Delivery
+CUST0489,Swati,Bose,swati.bose@gmail.com,9292069408,Female,1998-09-14,2024-02-18,Nagpur,Maharashtra,372231,Active,Wallet
+CUST0490,Krishna,Patel,krishna.patel@gmail.com,9858305156,Male,1998-04-26,2025-01-13,Chandigarh,Punjab,851636,Active,Net Banking
+CUST0491,Anil,Miller,anil.miller@hotmail.com,9147143794,Male,1973-05-01,2026-03-04,Mysore,Karnataka,261632,Active,Wallet
+CUST0492,Vishal,Trivedi,vishal.trivedi2@hotmail.com,9410075739,Male,1974-03-19,2023-09-27,Mumbai,Maharashtra,762802,Active,Credit Card
+CUST0493,Olivia,Johnson,olivia.johnson@mail.com,9966997739,Female,1958-07-08,2025-10-07,Hyderabad,Telangana,727467,Active,Cash on Delivery
+CUST0494,Deepika,Patel,deepika.patel@mail.com,9744354734,Female,1958-08-04,2026-01-25,Indore,Madhya Pradesh,769173,Active,Debit Card
+CUST0495,Rahul,Iyer,rahul.iyer@gmail.com,9801450705,Male,1989-04-24,2023-10-25,Kochi,Kerala,716175,Active,UPI
+CUST0496,Myra,Kumar,myra.kumar@gmail.com,9547704086,Female,1973-12-28,2024-08-05,Kochi,Kerala,835105,Active,Net Banking
+CUST0497,Pankaj,Wilson,pankaj.wilson@outlook.com,9138482956,Male,1966-05-10,2024-10-23,Ranchi,Jharkhand,507347,Active,Cash on Delivery
+CUST0498,Ravi,Smith,ravi.smith@yahoo.com,9231021447,Male,1982-08-15,2025-12-15,Chandigarh,Punjab,330039,Active,Net Banking
+CUST0499,Sai,Davis,sai.davis@mail.com,9194134670,Male,2001-05-23,2024-08-11,Indore,Madhya Pradesh,441863,Active,Net Banking
+CUST0500,Riya,Moore,riya.moore@mail.com,9633002137,Female,2004-08-16,2025-10-16,Vadodara,Gujarat,298647,Inactive,Debit Card
